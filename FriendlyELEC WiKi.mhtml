@@ -1,0 +1,2788 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: https://wiki.friendlyelec.com/wiki/index.php/Main_Page
+Subject: FriendlyELEC WiKi
+Date: Tue, 23 Jul 2024 03:44:59 +0800
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--809VM1ouUW0Z9lyP1P6054vC7WaG8NmOCaHTWhKJLj----"
+
+
+------MultipartBoundary--809VM1ouUW0Z9lyP1P6054vC7WaG8NmOCaHTWhKJLj----
+Content-Type: text/html
+Content-ID: <frame-05F3A49370678AC7E6DA34712365107F@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://wiki.friendlyelec.com/wiki/index.php/Main_Page
+
+<!DOCTYPE html><html lang=3D"en" dir=3D"ltr" class=3D"client-js"><head><met=
+a http-equiv=3D"Content-Type" content=3D"text/html; charset=3DUTF-8"><link =
+rel=3D"stylesheet" type=3D"text/css" href=3D"cid:css-50ec55cf-4973-49df-9b2=
+b-d4820729e315@mhtml.blink" /><link rel=3D"stylesheet" type=3D"text/css" hr=
+ef=3D"cid:css-5ead3b0d-0221-461c-82d6-7f7573b9617c@mhtml.blink" /><link rel=
+=3D"stylesheet" type=3D"text/css" href=3D"cid:css-e2831e58-5f99-4cc6-99a1-9=
+942f099d8d4@mhtml.blink" />
+
+<title>FriendlyELEC WiKi</title>
+<meta name=3D"generator" content=3D"MediaWiki 1.25.1">
+<link rel=3D"shortcut icon" href=3D"https://wiki.friendlyelec.com/favicon.i=
+co">
+<link rel=3D"search" type=3D"application/opensearchdescription+xml" href=3D=
+"https://wiki.friendlyelec.com/wiki/opensearch_desc.php" title=3D"FriendlyE=
+LEC WiKi (en)">
+<link rel=3D"EditURI" type=3D"application/rsd+xml" href=3D"https://wiki.fri=
+endlyelec.com/wiki/api.php?action=3Drsd">
+<link rel=3D"alternate" hreflang=3D"x-default" href=3D"https://wiki.friendl=
+yelec.com/wiki/index.php/Main_Page">
+<link rel=3D"alternate" type=3D"application/atom+xml" title=3D"FriendlyELEC=
+ WiKi Atom feed" href=3D"https://wiki.friendlyelec.com/wiki/index.php?title=
+=3DSpecial:RecentChanges&amp;feed=3Datom">
+<link rel=3D"stylesheet" href=3D"https://wiki.friendlyelec.com/wiki/load.ph=
+p?debug=3Dfalse&amp;lang=3Den&amp;modules=3Dmediawiki.legacy.commonPrint%2C=
+shared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cmediawiki=
+.ui.button%7Cskins.vector.styles&amp;only=3Dstyles&amp;skin=3Dvector&amp;*"=
+>
+<meta name=3D"ResourceLoaderDynamicStyles" content=3D"">
+<link rel=3D"stylesheet" href=3D"https://wiki.friendlyelec.com/wiki/load.ph=
+p?debug=3Dfalse&amp;lang=3Den&amp;modules=3Dsite&amp;only=3Dstyles&amp;skin=
+=3Dvector&amp;*">
+
+
+
+
+<!--[if lt IE 7]><style type=3D"text/css">body{behavior:url("/wiki/skins/Ve=
+ctor/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class=3D"mediawiki ltr sitedir-ltr ns-0 ns-subject page-Main_Page ski=
+n-vector action-view">
+		<div id=3D"mw-page-base" class=3D"noprint"></div>
+		<div id=3D"mw-head-base" class=3D"noprint"></div>
+		<div id=3D"content" class=3D"mw-body" role=3D"main">
+			<a id=3D"top"></a>
+
+						<div class=3D"mw-indicators">
+</div>
+			<h1 id=3D"firstHeading" class=3D"firstHeading" lang=3D"en">Main Page</h1=
+>
+						<div id=3D"bodyContent" class=3D"mw-body-content">
+									<div id=3D"siteSub">From FriendlyELEC WiKi</div>
+								<div id=3D"contentSub"></div>
+												<div id=3D"jump-to-nav" class=3D"mw-jump">
+					Jump to:					<a href=3D"https://wiki.friendlyelec.com/wiki/index.php/M=
+ain_Page#mw-head">navigation</a>, 					<a href=3D"https://wiki.friendlyelec=
+.com/wiki/index.php/Main_Page#p-search">search</a>
+				</div>
+				<div id=3D"mw-content-text" lang=3D"en" dir=3D"ltr" class=3D"mw-content=
+-ltr"><div id=3D"GettingStarted"></div>
+<div id=3D"toc" class=3D"toc"><div id=3D"toctitle"><h2>Contents</h2><span c=
+lass=3D"toctoggle">&nbsp;[<a href=3D"https://wiki.friendlyelec.com/wiki/ind=
+ex.php/Main_Page#" id=3D"togglelink">hide</a>]&nbsp;</span></div>
+<ul>
+<li class=3D"toclevel-1 tocsection-1"><a href=3D"https://wiki.friendlyelec.=
+com/wiki/index.php/Main_Page#Getting_Started"><span class=3D"tocnumber">1</=
+span> <span class=3D"toctext">Getting Started</span></a></li>
+<li class=3D"toclevel-1 tocsection-2"><a href=3D"https://wiki.friendlyelec.=
+com/wiki/index.php/Main_Page#Software_.26_Development_Tools"><span class=3D=
+"tocnumber">2</span> <span class=3D"toctext">Software &amp; Development Too=
+ls</span></a>
+<ul>
+<li class=3D"toclevel-2 tocsection-3"><a href=3D"https://wiki.friendlyelec.=
+com/wiki/index.php/Main_Page#Embedded_Operating_Systems"><span class=3D"toc=
+number">2.1</span> <span class=3D"toctext">Embedded Operating Systems</span=
+></a></li>
+<li class=3D"toclevel-2 tocsection-4"><a href=3D"https://wiki.friendlyelec.=
+com/wiki/index.php/Main_Page#Utilities"><span class=3D"tocnumber">2.2</span=
+> <span class=3D"toctext">Utilities</span></a></li>
+<li class=3D"toclevel-2 tocsection-5"><a href=3D"https://wiki.friendlyelec.=
+com/wiki/index.php/Main_Page#Building_from_open_source_code"><span class=3D=
+"tocnumber">2.3</span> <span class=3D"toctext">Building from open source co=
+de</span></a></li>
+<li class=3D"toclevel-2 tocsection-6"><a href=3D"https://wiki.friendlyelec.=
+com/wiki/index.php/Main_Page#AI.2C_Qt.2C_IoT_and_more.E2.80.A6"><span class=
+=3D"tocnumber">2.4</span> <span class=3D"toctext">AI, Qt, IoT and more=E2=
+=80=A6</span></a></li>
+</ul>
+</li>
+<li class=3D"toclevel-1 tocsection-7"><a href=3D"https://wiki.friendlyelec.=
+com/wiki/index.php/Main_Page#Hardware_Settings_and_Controls_.28TBD.29"><spa=
+n class=3D"tocnumber">3</span> <span class=3D"toctext">Hardware Settings an=
+d Controls (TBD)</span></a></li>
+<li class=3D"toclevel-1 tocsection-8"><a href=3D"https://wiki.friendlyelec.=
+com/wiki/index.php/Main_Page#Products"><span class=3D"tocnumber">4</span> <=
+span class=3D"toctext">Products</span></a>
+<ul>
+<li class=3D"toclevel-2 tocsection-9"><a href=3D"https://wiki.friendlyelec.=
+com/wiki/index.php/Main_Page#CPU_Boards"><span class=3D"tocnumber">4.1</spa=
+n> <span class=3D"toctext">CPU Boards</span></a></li>
+<li class=3D"toclevel-2 tocsection-10"><a href=3D"https://wiki.friendlyelec=
+.com/wiki/index.php/Main_Page#Carrier_Boards"><span class=3D"tocnumber">4.2=
+</span> <span class=3D"toctext">Carrier Boards</span></a></li>
+<li class=3D"toclevel-2 tocsection-11"><a href=3D"https://wiki.friendlyelec=
+.com/wiki/index.php/Main_Page#NanoPC.2FPi_Series"><span class=3D"tocnumber"=
+>4.3</span> <span class=3D"toctext">NanoPC/Pi Series</span></a></li>
+<li class=3D"toclevel-2 tocsection-12"><a href=3D"https://wiki.friendlyelec=
+.com/wiki/index.php/Main_Page#Mini_Boards"><span class=3D"tocnumber">4.4</s=
+pan> <span class=3D"toctext">Mini Boards</span></a></li>
+<li class=3D"toclevel-2"><a href=3D"https://wiki.friendlyelec.com/wiki/inde=
+x.php/Main_Page#Matrix"><span class=3D"tocnumber">4.5</span> <span class=3D=
+"toctext">Matrix</span></a></li>
+<li class=3D"toclevel-2"><a href=3D"https://wiki.friendlyelec.com/wiki/inde=
+x.php/Main_Page#Breakout"><span class=3D"tocnumber">4.6</span> <span class=
+=3D"toctext">Breakout</span></a></li>
+<li class=3D"toclevel-2"><a href=3D"https://wiki.friendlyelec.com/wiki/inde=
+x.php/Main_Page#BakeBit"><span class=3D"tocnumber">4.7</span> <span class=
+=3D"toctext">BakeBit</span></a></li>
+<li class=3D"toclevel-2"><a href=3D"https://wiki.friendlyelec.com/wiki/inde=
+x.php/Main_Page#HATs.26Docks"><span class=3D"tocnumber">4.8</span> <span cl=
+ass=3D"toctext">HATs&amp;Docks</span></a></li>
+<li class=3D"toclevel-2 tocsection-13"><a href=3D"https://wiki.friendlyelec=
+.com/wiki/index.php/Main_Page#Starter_Kit"><span class=3D"tocnumber">4.9</s=
+pan> <span class=3D"toctext">Starter Kit</span></a></li>
+<li class=3D"toclevel-2 tocsection-14"><a href=3D"https://wiki.friendlyelec=
+.com/wiki/index.php/Main_Page#LCD_Modulse"><span class=3D"tocnumber">4.10</=
+span> <span class=3D"toctext">LCD Modulse</span></a></li>
+<li class=3D"toclevel-2 tocsection-15"><a href=3D"https://wiki.friendlyelec=
+.com/wiki/index.php/Main_Page#3D_Models"><span class=3D"tocnumber">4.11</sp=
+an> <span class=3D"toctext">3D Models</span></a></li>
+<li class=3D"toclevel-2 tocsection-16"><a href=3D"https://wiki.friendlyelec=
+.com/wiki/index.php/Main_Page#Accessories"><span class=3D"tocnumber">4.12</=
+span> <span class=3D"toctext">Accessories</span></a></li>
+</ul>
+</li>
+</ul>
+</div>
+
+<h1><span class=3D"mw-headline" id=3D"Getting_Started"><span class=3D"mw-he=
+adline-number">1</span> Getting Started</span></h1>
+<table border=3D"0" cellpadding=3D"10" width=3D"100%">
+
+<tbody><tr>
+<td width=3D"32%" valign=3D"top" align=3D"left">
+<ul><li><a rel=3D"nofollow" target=3D"_blank" class=3D"external text" href=
+=3D"https://github.com/friendlyarm/build-env-on-ubuntu-bionic">How to setup=
+ the Compiling Environment on Ubuntu bionic</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/BakeBit_Starter=
+_Kit_with_NanoPi_NEO/NEO2/NEO_Air" title=3D"BakeBit Starter Kit with NanoPi=
+ NEO/NEO2/NEO Air">Get Started with BakeBit Starter Kit</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/Get_Started_wit=
+h_Matrix_Starter_Kit" title=3D"Get Started with Matrix Starter Kit">Get Sta=
+rted with Matrix Starter Kit</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/Hardware_testin=
+g" title=3D"Hardware testing">Hardware testing</a></li></ul>
+</td>
+<td width=3D"32%" valign=3D"top" align=3D"left">
+</td></tr></tbody></table>
+<div id=3D"Learning"></div>
+<h1><span class=3D"mw-headline" id=3D"Software_.26_Development_Tools"><span=
+ class=3D"mw-headline-number">2</span> Software &amp; Development Tools</sp=
+an></h1>
+<table border=3D"0" cellpadding=3D"10" width=3D"100%">
+
+<tbody><tr>
+<td width=3D"32%" valign=3D"top" align=3D"left">
+<h3><span class=3D"mw-headline" id=3D"Embedded_Operating_Systems"><span cla=
+ss=3D"mw-headline-number">2.1</span> Embedded Operating Systems</span></h3>
+<ul><li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/Buildroot" =
+title=3D"Buildroot">Buildroot</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/FriendlyWrt" ti=
+tle=3D"FriendlyWrt">FriendlyWrt</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/Getting_Started=
+_with_OpenMediaVault" title=3D"Getting Started with OpenMediaVault">OpenMed=
+iaVault</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/Debian_Bullseye=
+_Desktop" title=3D"Debian Bullseye Desktop">Debian11 (Bullseye) Desktop</a>=
+</li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/Ubuntu_Jammy_De=
+sktop" title=3D"Ubuntu Jammy Desktop">Ubuntu 22.04(Jammy) Desktop</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/Ubuntu_Focal_De=
+sktop" title=3D"Ubuntu Focal Desktop">Ubuntu 20.04(Focal) Desktop</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/FriendlyDesktop=
+_18.04_for_RK3399" title=3D"FriendlyDesktop 18.04 for RK3399">FriendlyDeskt=
+op 18.04 for RK3399</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/FriendlyCore_(b=
+ased_on_ubuntu-core_with_Qt)" title=3D"FriendlyCore (based on ubuntu-core w=
+ith Qt)">FriendlyCore (based on ubuntu-core with Qt)</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/Lubuntu_desktop=
+_16.04_for_RK3399" title=3D"Lubuntu desktop 16.04 for RK3399">Lubuntu deskt=
+op 16.04 for RK3399</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/Lubuntu_desktop=
+" title=3D"Lubuntu desktop">Lubuntu desktop 16.04 for S5P4418/S5P6818</a></=
+li>
+<li><a rel=3D"nofollow" target=3D"_blank" class=3D"external text" href=3D"h=
+ttps://dietpi.com/docs/hardware/#nanopi-series-friendlyarm">DietPi OS</a></=
+li></ul>
+<h3><span class=3D"mw-headline" id=3D"Utilities"><span class=3D"mw-headline=
+-number">2.2</span> Utilities</span></h3>
+<ul><li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/EFlasher" t=
+itle=3D"EFlasher">EFlasher</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/Npi-config" tit=
+le=3D"Npi-config">npi-config</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/How_to_make_you=
+r_own_SD-bootable_ROM" title=3D"How to make your own SD-bootable ROM">How t=
+o make your own SD-bootable ROM</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/Use_NetworkMana=
+ger_to_configure_network_settings" title=3D"Use NetworkManager to configure=
+ network settings">Use NetworkManager to configure network settings</a></li=
+>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/How_to_use_over=
+layfs_on_Linux" title=3D"How to use overlayfs on Linux">How to use overlayf=
+s on Linux</a></li></ul>
+<h3><span class=3D"mw-headline" id=3D"Building_from_open_source_code"><span=
+ class=3D"mw-headline-number">2.3</span> Building from open source code</sp=
+an></h3>
+<ul><li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/How_to_Buil=
+d_FriendlyWrt" title=3D"How to Build FriendlyWrt">How to Build FriendlyWrt<=
+/a></li>
+<li><a rel=3D"nofollow" target=3D"_blank" class=3D"external text" href=3D"h=
+ttps://github.com/friendlyarm/Actions-FriendlyWrt">Actions-FriendlyWrt</a><=
+/li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/How_to_Build,_I=
+nstall_and_Setting_Qt_Application" title=3D"How to Build, Install and Setti=
+ng Qt Application">Qt dev: How to Build, Install and Setting Qt Application=
+</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/Building_U-boot=
+_and_Linux_for_H5/H3/H2%2B" title=3D"Building U-boot and Linux for H5/H3/H2=
++">Building U-boot and Linux for H5/H3/H2+</a></li>
+<li>Cross-compiling Qt application in Docker:  <a rel=3D"nofollow" target=
+=3D"_blank" class=3D"external text" href=3D"https://github.com/friendlyarm/=
+friendlyelec-ubuntu18-docker">[RK3399 platform</a>] <a rel=3D"nofollow" tar=
+get=3D"_blank" class=3D"external text" href=3D"http://github.com/friendlyar=
+m/friendlyelec-ubuntu16-docker">[S5P4418/S5P6818/H3/H5 platform platform</a=
+>]</li>
+<li>Building Android open source project in Docker: <a rel=3D"nofollow" tar=
+get=3D"_blank" class=3D"external text" href=3D"http://github.com/friendlyar=
+m/friendlyelec-android-docker">[RK3399/S5P4418/S5P6818/H3/H5 platform</a>]<=
+/li>
+<li><a rel=3D"nofollow" target=3D"_blank" class=3D"external text" href=3D"h=
+ttps://github.com/friendlyarm/ble-server-sample-for-linux">Building and run=
+ning BLE GATT Server Example on FriendlyCore</a></li></ul>
+</td>
+<td width=3D"32%" valign=3D"top" align=3D"left">
+<h3><span class=3D"mw-headline" id=3D"AI.2C_Qt.2C_IoT_and_more.E2.80.A6"><s=
+pan class=3D"mw-headline-number">2.4</span> AI, Qt, IoT and more=E2=80=A6</=
+span></h3>
+<ul><li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/How_to_Inst=
+all_Docker_on_Debian" title=3D"How to Install Docker on Debian">How to Inst=
+all Docker on Debian</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/WiringPi_for_RK=
+3399" title=3D"WiringPi for RK3399">WiringPi for RK3399</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/WiringPi-Python=
+_for_RK3399" title=3D"WiringPi-Python for RK3399">WiringPi-Python for RK339=
+9</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/WiringNP:_NanoP=
+i_NEO/NEO2/Air_GPIO_Programming_with_C" title=3D"WiringNP: NanoPi NEO/NEO2/=
+Air GPIO Programming with C">WiringNP: NanoPi NEO/NEO2/Air GPIO Programming=
+ with C</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/RPi.GPIO_:_Nano=
+Pi_NEO/NEO2/Air_GPIO_Programming_with_Python" title=3D"RPi.GPIO : NanoPi NE=
+O/NEO2/Air GPIO Programming with Python">RPi.GPIO : NanoPi NEO/NEO2/Air GPI=
+O Programming with Python</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/FriendlyThings_=
+for_Rockchip" title=3D"FriendlyThings for Rockchip">Android: FriendlyThings=
+ for Rockchip</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/FriendlyThings"=
+ title=3D"FriendlyThings">Android: FriendlyThings for S5P4418/S5P6818/H3/H5=
+ Platforms</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/FriendlyThings_=
+APIs" title=3D"FriendlyThings APIs">Android: FriendlyThings APIs</a></li>
+<li><a rel=3D"nofollow" target=3D"_blank" class=3D"external text" href=3D"h=
+ttps://github.com/friendlyarm/install-opencv-on-friendlycore">Installing Op=
+enCV on FriendlyCore</a></li>
+<li><a rel=3D"nofollow" target=3D"_blank" class=3D"external text" href=3D"h=
+ttps://github.com/friendlyarm/install-caffe-on-friendlycore">Installing Caf=
+fe on FriendlyCore</a></li>
+<li><a rel=3D"nofollow" target=3D"_blank" class=3D"external text" href=3D"h=
+ttps://github.com/friendlyarm/install-tensorflow-on-friendlycore">Installin=
+g Tensorflow  on RK3399 boards</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/Install_ROS_Mel=
+odic_on_NanoPC-T4/zh" title=3D"Install ROS Melodic on NanoPC-T4/zh">Install=
+ ROS Melodic on NanoPC-T4</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/How_to_use_MIPI=
+_camera_on_RK3399_boards" title=3D"How to use MIPI camera on RK3399 boards"=
+>How to use MIPI camera on RK3399 boards</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/How_to_use_4G_M=
+odule_on_NanoPC-T4" title=3D"How to use 4G Module on NanoPC-T4">How to use =
+4G Module on NanoPC-T4</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/How_to_use_4G_M=
+odule_on_Debian/zh" title=3D"How to use 4G Module on Debian/zh">How to use =
+4G Module on Debian</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/How_to_setup_RT=
+MP_server_on_NanoPC-T4" title=3D"How to setup RTMP server on NanoPC-T4">How=
+ to setup RTMP server on NanoPC-T4</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/How_to_setup_XR=
+DP_server_on_NanoPC-T4" title=3D"How to setup XRDP server on NanoPC-T4">How=
+ to setup XRDP server on NanoPC-T4</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/How_to_install_=
+chinese_input_method_on_FriendlyDesktop" title=3D"How to install chinese in=
+put method on FriendlyDesktop">=E5=A6=82=E4=BD=95=E5=9C=A8FriendlyDesktop=
+=E4=B8=8A=E5=AE=89=E8=A3=85=E4=B8=AD=E6=96=87=E8=BE=93=E5=85=A5=E6=B3=95</a=
+></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/Template:RK3399=
+-Linux-Install-Docker" title=3D"Template:RK3399-Linux-Install-Docker">How t=
+o install and use docker on RK3399 boards</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/Template:Linux-=
+Create-WiFiAP" title=3D"Template:Linux-Create-WiFiAP">How to setup WiFiAP /=
+ HotAP</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/How_to_setup_Je=
+llyFin_media_system_on_NanoPi-R2S/zh" title=3D"How to setup JellyFin media =
+system on NanoPi-R2S/zh">=E5=9C=A8NanoPi-R2S=E4=B8=8A=E5=AE=89=E8=A3=85=E4=
+=BD=BF=E7=94=A8JellyFin=E5=BD=B1=E9=9F=B3=E6=9C=8D=E5=8A=A1=E5=99=A8</a></l=
+i>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/How_to_use_a_US=
+B_WiFi_adapter_as_an_access_point_on_FriendlyWrt" title=3D"How to use a USB=
+ WiFi adapter as an access point on FriendlyWrt">=E5=A6=82=E4=BD=95=E5=9C=
+=A8FriendlyWrt=E4=B8=8B=E4=BD=BF=E7=94=A8USB WiFi=E4=BD=9C=E4=B8=BAAP</a></=
+li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/NanoPC-T6_Armbi=
+an_Installation_Guide" title=3D"NanoPC-T6 Armbian Installation Guide">NanoP=
+C-T6 Armbian Installation Guide</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/How_to_setup_x1=
+1vnc_server" title=3D"How to setup x11vnc server">How to setup x11vnc serve=
+r</a></li></ul>
+</td></tr></tbody></table>
+<div id=3D"Products"></div>
+<h1><span class=3D"mw-headline" id=3D"Hardware_Settings_and_Controls_.28TBD=
+.29"><span class=3D"mw-headline-number">3</span> Hardware Settings and Cont=
+rols (TBD)</span></h1>
+<table border=3D"0" cellpadding=3D"10" width=3D"100%">
+
+<tbody><tr>
+<td width=3D"32%" valign=3D"top" align=3D"left">
+<ul><li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/WiFi" title=
+=3D"WiFi">WiFi</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/LED" title=3D"L=
+ED">LED</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/Serial_port" ti=
+tle=3D"Serial port">Serial port</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/PWM" title=3D"P=
+WM">PWM</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/SPI" title=3D"S=
+PI">SPI</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/USB_OTG" title=
+=3D"USB OTG">USB OTG</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/LCD" title=3D"L=
+CD">LCD</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/CPU" title=3D"C=
+PU">CPU</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/Network" title=
+=3D"Network">Network</a></li></ul>
+</td>
+<td width=3D"32%" valign=3D"top" align=3D"left">
+<ul><li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/I2S" title=
+=3D"I2S">I2S</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/I2C" title=3D"I=
+2C">I2C</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/CVBS" title=3D"=
+CVBS">CVBS</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/Watchdog" title=
+=3D"Watchdog">Watchdog</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/GSM/GPRS" title=
+=3D"GSM/GPRS">GSM/GPRS</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/Codec" title=3D=
+"Codec">Codec</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/PCIe" title=3D"=
+PCIe">PCIe</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/GPIO" title=3D"=
+GPIO">GPIO</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/EMMC" title=3D"=
+EMMC">eMMC</a></li></ul>
+</td>
+<td width=3D"32%" valign=3D"top" align=3D"left">
+<ul><li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/Bluetooth" =
+title=3D"Bluetooth">Bluetooth</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/HDMI" title=3D"=
+HDMI">HDMI</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/Camera" title=
+=3D"Camera">Camera</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/Memory" title=
+=3D"Memory">Memory</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/RTC" title=3D"R=
+TC">RTC</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/EEPROM" title=
+=3D"EEPROM">EEPROM</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/MIPI-DSI" title=
+=3D"MIPI-DSI">MIPI-DSI</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/NPU" title=3D"N=
+PU">NPU</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/VPU" title=3D"V=
+PU">VPU</a></li></ul>
+</td></tr></tbody></table>
+<div id=3D"Products"></div>
+<h1><span class=3D"mw-headline" id=3D"Products"><span class=3D"mw-headline-=
+number">4</span> Products</span></h1>
+<h3><span class=3D"mw-headline" id=3D"CPU_Boards"><span class=3D"mw-headlin=
+e-number">4.1</span> CPU Boards</span></h3>
+<div id=3D"CPUBoards"></div>
+<table border=3D"0" cellpadding=3D"10" width=3D"100%">
+
+<tbody><tr>
+<td width=3D"32%" valign=3D"top" align=3D"left">
+<ul><li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/Micro2451" =
+title=3D"Micro2451">Micro2451</a></li>
+<li><a rel=3D"nofollow" target=3D"_blank" class=3D"external text" href=3D"h=
+ttp://www.friendlyarm.com/">Tiny4412,Super4412,Smart210,Tiny210,Tiny6410,Ti=
+ny2451,Tiny2416 </a></li></ul>
+</td>
+<td width=3D"32%" valign=3D"top" align=3D"left">
+<ul><li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/Smart4418" =
+title=3D"Smart4418">Smart4418</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/Smart6818" titl=
+e=3D"Smart6818">Smart6818</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/Core4418" title=
+=3D"Core4418">Core4418</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/SOM-4418" title=
+=3D"SOM-4418">SOM-4418</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/SOM-RK3399" tit=
+le=3D"SOM-RK3399">SOM-RK3399</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/SOM-RK3399v2" t=
+itle=3D"SOM-RK3399v2">SOM-RK3399v2</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/CM3588" title=
+=3D"CM3588">CM3588</a></li></ul>
+<p><br>
+</p>
+</td></tr></tbody></table>
+<h3><span class=3D"mw-headline" id=3D"Carrier_Boards"><span class=3D"mw-hea=
+dline-number">4.2</span> Carrier Boards</span></h3>
+<div id=3D"CarrierBoards"></div>
+<table border=3D"0" cellpadding=3D"10" width=3D"100%">
+
+<tbody><tr>
+<td width=3D"32%" valign=3D"top" align=3D"left">
+<ul><li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/Smart210/44=
+18_SDK" title=3D"Smart210/4418 SDK">Smart210/4418 SDK</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/Smart4418SDK_13=
+05" title=3D"Smart4418SDK 1305">Smart4418SDK 1305</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/Smart4418SDK_16=
+06" title=3D"Smart4418SDK 1606">Smart4418SDK 1606</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/Smart4418/6818S=
+DK_V2" title=3D"Smart4418/6818SDK V2">Smart4418/6818SDK V2</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/All-in-One_Andr=
+oid_Touch_Screen" title=3D"All-in-One Android Touch Screen">All-in-One Andr=
+oid Touch Screen</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php?title=3DSmart21=
+0/4418_ADK&amp;action=3Dedit&amp;redlink=3D1" class=3D"new" title=3D"Smart2=
+10/4418 ADK (page does not exist)">Smart210/4418 ADK</a></li></ul>
+</td>
+<td width=3D"32%" valign=3D"top" align=3D"left">
+<ul><li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/CM3588_NAS_=
+Kit" title=3D"CM3588 NAS Kit">CM3588 NAS Kit</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/SOM-RK3399_Dev_=
+Kit" title=3D"SOM-RK3399 Dev Kit">SOM-RK3399 Dev Kit</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/Edge-RT300" tit=
+le=3D"Edge-RT300">Edge-RT300</a></li></ul>
+</td>
+<td width=3D"32%" valign=3D"top" align=3D"left">
+</td>
+<td width=3D"32%" valign=3D"top" align=3D"left">
+</td></tr></tbody></table>
+<h3><span class=3D"mw-headline" id=3D"NanoPC.2FPi_Series"><span class=3D"mw=
+-headline-number">4.3</span> NanoPC/Pi Series</span></h3>
+<div id=3D"NanoPCSeries"></div>
+<table border=3D"0" cellpadding=3D"10" width=3D"100%">
+
+<tbody><tr>
+<td width=3D"25%" valign=3D"top" align=3D"left">
+<ul><li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/NanoPC-T1" =
+title=3D"NanoPC-T1">NanoPC-T1</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/NanoPC-T2" titl=
+e=3D"NanoPC-T2">NanoPC-T2</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/NanoPC-T3" titl=
+e=3D"NanoPC-T3">NanoPC-T3</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/NanoPC-T3_Plus"=
+ title=3D"NanoPC-T3 Plus">NanoPC-T3 Plus</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/NanoPC-T4" titl=
+e=3D"NanoPC-T4">NanoPC-T4</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/NanoPi" title=
+=3D"NanoPi">NanoPi</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/NanoPi_2" title=
+=3D"NanoPi 2">NanoPi 2</a> </li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/NanoPi_2_Fire" =
+title=3D"NanoPi 2 Fire">NanoPi 2 Fire</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/NanoPi_Fire2A" =
+title=3D"NanoPi Fire2A">NanoPi Fire2A</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/NanoPi_Fire3" t=
+itle=3D"NanoPi Fire3">NanoPi Fire3</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/NanoPi_S2" titl=
+e=3D"NanoPi S2">NanoPi S2</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/NanoPi_A64" tit=
+le=3D"NanoPi A64">NanoPi A64</a> </li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/NanoPi_Duo" tit=
+le=3D"NanoPi Duo">NanoPi Duo</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/NanoPi_Duo2" ti=
+tle=3D"NanoPi Duo2">NanoPi Duo2</a></li></ul>
+</td>
+<td width=3D"25%" valign=3D"top" align=3D"left">
+<ul><li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/NanoPi_K1_P=
+lus" title=3D"NanoPi K1 Plus">NanoPi K1 Plus</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/NanoPi_K2" titl=
+e=3D"NanoPi K2">NanoPi K2</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/NanoPi_M1" titl=
+e=3D"NanoPi M1">NanoPi M1</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/NanoPi_M1_Plus"=
+ title=3D"NanoPi M1 Plus">NanoPi M1 Plus</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/NanoPi_M2" titl=
+e=3D"NanoPi M2">NanoPi M2</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/NanoPi_M2A" tit=
+le=3D"NanoPi M2A">NanoPi M2A</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/NanoPi_M3" titl=
+e=3D"NanoPi M3">NanoPi M3</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/NanoPi_M4" titl=
+e=3D"NanoPi M4">NanoPi M4</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/NanoPi_M4V2" ti=
+tle=3D"NanoPi M4V2">NanoPi M4V2</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/NanoPi_M4B" tit=
+le=3D"NanoPi M4B">NanoPi M4B</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/NanoPi_NEO" tit=
+le=3D"NanoPi NEO">NanoPi NEO</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/NanoPi_NEO2" ti=
+tle=3D"NanoPi NEO2">NanoPi NEO2</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/NanoPi_NEO2_Bla=
+ck" title=3D"NanoPi NEO2 Black">NanoPi NEO2 Black</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/NanoPi_NEO3" ti=
+tle=3D"NanoPi NEO3">NanoPi NEO3</a></li></ul>
+</td>
+<td width=3D"25%" valign=3D"top" align=3D"left">
+<ul><li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/NanoPi_NEO4=
+" title=3D"NanoPi NEO4">NanoPi NEO4</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/NanoPi_NEO_Air"=
+ title=3D"NanoPi NEO Air">NanoPi NEO Air</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/NanoPi_NEO_Core=
+" title=3D"NanoPi NEO Core">NanoPi NEO Core</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/NanoPi_NEO_Core=
+2" title=3D"NanoPi NEO Core2">NanoPi NEO Core2</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/NanoPi_NEO_Plus=
+2" title=3D"NanoPi NEO Plus2">NanoPi NEO Plus2</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/ZeroPi" title=
+=3D"ZeroPi">ZeroPi</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/NanoPi_R1" titl=
+e=3D"NanoPi R1">NanoPi R1</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/NanoPi_R1S-H3" =
+title=3D"NanoPi R1S-H3">NanoPi R1S-H3</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/NanoPi_R1S-H5" =
+title=3D"NanoPi R1S-H5">NanoPi R1S-H5</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/NanoPi_R2S" tit=
+le=3D"NanoPi R2S">NanoPi R2S</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/NanoPi_R2C" tit=
+le=3D"NanoPi R2C">NanoPi R2C</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/NanoPi_R2C_Plus=
+" title=3D"NanoPi R2C Plus">NanoPi R2C Plus</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/NanoPi_R2S_Plus=
+" title=3D"NanoPi R2S Plus">NanoPi R2S Plus</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/NanoPi_R4S" tit=
+le=3D"NanoPi R4S">NanoPi R4S</a></li></ul>
+</td>
+<td width=3D"25%" valign=3D"top" align=3D"left">
+<ul><li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/NanoPi_R4SE=
+" title=3D"NanoPi R4SE">NanoPi R4SE</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/NanoPi_R5S" tit=
+le=3D"NanoPi R5S">NanoPi R5S</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/NanoPi_R5C" tit=
+le=3D"NanoPi R5C">NanoPi R5C</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/NanoPi_R6S" tit=
+le=3D"NanoPi R6S">NanoPi R6S</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/NanoPi_R6C" tit=
+le=3D"NanoPi R6C">NanoPi R6C</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/NanoPC-T6" titl=
+e=3D"NanoPC-T6">NanoPC-T6</a></li></ul>
+</td></tr></tbody></table>
+<h3><span class=3D"mw-headline" id=3D"Mini_Boards"><span class=3D"mw-headli=
+ne-number">4.4</span> Mini Boards</span></h3>
+<div id=3D"MiniBoards"></div>
+<dl><dd><a rel=3D"nofollow" target=3D"_blank" class=3D"external text" href=
+=3D"http://www.friendlyarm.com/">Mini210s, Mini2440, Mini2451, Mini6410</a>=
+</dd></dl>
+<div id=3D"Matrix"></div>
+<h3><span class=3D"mw-headline" id=3D"Matrix"><span class=3D"mw-headline-nu=
+mber">4.5</span> Matrix</span></h3>
+<table border=3D"0" cellpadding=3D"10" width=3D"100%">
+
+<tbody><tr>
+<td width=3D"32%" valign=3D"top" align=3D"left">
+<ul><li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/Matrix_API_=
+reference_manual" title=3D"Matrix API reference manual">Matrix API referenc=
+e manual</a></li></ul>
+</td>
+<td width=3D"32%" valign=3D"top" align=3D"left">
+</td>
+<td width=3D"32%" valign=3D"top" align=3D"left">
+</td></tr></tbody></table>
+<table border=3D"0" cellpadding=3D"10" width=3D"100%">
+
+<tbody><tr>
+<td width=3D"32%" valign=3D"top" align=3D"left">
+<ul><li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/Matrix_-_2%=
+278_SPI_Key_TFT" title=3D"Matrix - 2'8 SPI Key TFT">Matrix - 2'8 SPI Key TF=
+T</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/Matrix_-_3-Axis=
+_Digital_Accelerometer" title=3D"Matrix - 3-Axis Digital Accelerometer">Mat=
+rix - 3-Axis Digital Accelerometer</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/Matrix_-_3-Axis=
+_Digital_Compass" title=3D"Matrix - 3-Axis Digital Compass">Matrix - 3-Axis=
+ Digital Compass</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/Matrix_-_4-Digi=
+t_8-Segment_Display" title=3D"Matrix - 4-Digit 8-Segment Display">Matrix - =
+4-Digit 8-Segment Display</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/Matrix_-_Analog=
+_to_Digital_Converter" title=3D"Matrix - Analog to Digital Converter">Matri=
+x - Analog to Digital Converter</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/Matrix_-_Ball_R=
+olling_Switch" title=3D"Matrix - Ball Rolling Switch">Matrix - Ball Rolling=
+ Switch</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/Matrix_-_Button=
+" title=3D"Matrix - Button">Matrix - Button</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/Matrix_-_Buzzer=
+" title=3D"Matrix - Buzzer">Matrix - Buzzer</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/Matrix_-_CAM500=
+A" title=3D"Matrix - CAM500A">Matrix - CAM500A</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/Matrix_-_CAM500=
+B" title=3D"Matrix - CAM500B">Matrix - CAM500B</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/Matrix_-_CAM132=
+0" title=3D"Matrix - CAM1320">Matrix - CAM1320</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/Matrix_-_MCAM40=
+0" title=3D"Matrix - MCAM400">Matrix - MCAM400</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/Matrix_-_Compac=
+t_Kit" title=3D"Matrix - Compact Kit">Matrix - Compact Kit</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/Matrix_-_Compac=
+t_Kit_B" title=3D"Matrix - Compact Kit B">Matrix - Compact Kit B</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/Matrix_-_Easy_M=
+ultiplexing_Board_for_M1" title=3D"Matrix - Easy Multiplexing Board for M1"=
+>Matrix - Easy Multiplexing Board for M1</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/Matrix_-_EEPROM=
+" title=3D"Matrix - EEPROM">Matrix - EEPROM</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/Matrix_-_Fire_S=
+ensor" title=3D"Matrix - Fire Sensor">Matrix - Fire Sensor</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/Matrix_-_GPS" t=
+itle=3D"Matrix - GPS">Matrix - GPS</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/Matrix_-_I2C_LC=
+D1602" title=3D"Matrix - I2C LCD1602">Matrix - I2C LCD1602</a></li></ul>
+<p><br>
+</p>
+</td>
+<td width=3D"32%" valign=3D"top" align=3D"left">
+<ul><li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/Matrix_-_I2=
+C_LCD1602_Keypad" title=3D"Matrix - I2C LCD1602 Keypad">Matrix - I2C LCD160=
+2 Keypad</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/Matrix_-_IR_Cou=
+nter" title=3D"Matrix - IR Counter">Matrix - IR Counter</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/Matrix_-_IR_Rec=
+eiver" title=3D"Matrix - IR Receiver">Matrix - IR Receiver</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/Matrix_-_Joysti=
+ck" title=3D"Matrix - Joystick">Matrix - Joystick</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/Matrix_-_LCD2US=
+B" title=3D"Matrix - LCD2USB">Matrix - LCD2USB</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/Matrix_-_LED" t=
+itle=3D"Matrix - LED">Matrix - LED</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/Matrix_-_L298N_=
+Motor_Driver" title=3D"Matrix - L298N Motor Driver">Matrix - L298N Motor Dr=
+iver</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/Matrix_-_MQ-2_G=
+as_Sensor" title=3D"Matrix - MQ-2 Gas Sensor">Matrix - MQ-2 Gas Sensor</a><=
+/li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/Matrix_-_MQ-3_G=
+as_Sensor" title=3D"Matrix - MQ-3 Gas Sensor">Matrix - MQ-3 Gas Sensor</a><=
+/li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/Matrix_-_One_To=
+uch_Sensor" title=3D"Matrix - One Touch Sensor">Matrix - One Touch Sensor</=
+a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/Matrix_-_Photor=
+esistor" title=3D"Matrix - Photoresistor">Matrix - Photoresistor</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/Matrix_-_Potent=
+iometer" title=3D"Matrix - Potentiometer">Matrix - Potentiometer</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/Matrix_-_Power_=
+Dock_for_NanoPi_NEO" title=3D"Matrix - Power Dock for NanoPi NEO">Matrix - =
+Power Dock for NanoPi NEO</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/Matrix_-_Pressu=
+re_and_Temperature_Sensor" title=3D"Matrix - Pressure and Temperature Senso=
+r">Matrix - Pressure and Temperature Sensor</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/Matrix_-_Relay"=
+ title=3D"Matrix - Relay">Matrix - Relay</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/Matrix_-_RGB_LE=
+D" title=3D"Matrix - RGB LED">Matrix - RGB LED</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/Matrix_-_Rotary=
+_Encoder" title=3D"Matrix - Rotary Encoder">Matrix - Rotary Encoder</a></li=
+>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/Matrix_-_RTC" t=
+itle=3D"Matrix - RTC">Matrix - RTC</a></li></ul>
+</td>
+<td width=3D"32%" valign=3D"top" align=3D"left">
+<ul><li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/Matrix_-_So=
+il_Moisture_Sensor" title=3D"Matrix - Soil Moisture Sensor">Matrix - Soil M=
+oisture Sensor</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/Matrix_-_Sound_=
+Sensor" title=3D"Matrix - Sound Sensor">Matrix - Sound Sensor</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/Matrix_-_Temper=
+ature_and_Humidity_Sensor" title=3D"Matrix - Temperature and Humidity Senso=
+r">Matrix - Temperature and Humidity Sensor</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/Matrix_-_Temper=
+ature_Sensor" title=3D"Matrix - Temperature Sensor">Matrix - Temperature Se=
+nsor</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/Matrix_-_T-Cobb=
+ler40_for_Pi" title=3D"Matrix - T-Cobbler40 for Pi">Matrix - T-Cobbler40 fo=
+r Pi</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/Matrix_-_Thermi=
+stor" title=3D"Matrix - Thermistor">Matrix - Thermistor</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/Matrix_-_TTL_to=
+_RS232" title=3D"Matrix - TTL to RS232">Matrix - TTL to RS232</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/Matrix_-_Ultras=
+onic_Ranger" title=3D"Matrix - Ultrasonic Ranger">Matrix - Ultrasonic Range=
+r</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/Matrix_-_USB_Ca=
+mera(FA-CAM202)" title=3D"Matrix - USB Camera(FA-CAM202)">Matrix - USB Came=
+ra(FA-CAM202)</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/Matrix_-_USB2UA=
+RT" title=3D"Matrix - USB2UART">Matrix - USB2UART</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/Matrix_-_USB_Wi=
+Fi" title=3D"Matrix - USB WiFi">Matrix - USB WiFi</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/Matrix_-_Water_=
+Sensor" title=3D"Matrix - Water Sensor">Matrix - Water Sensor</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/Matrix_-_YS6000=
+_(SD_WiFi_%26_Bluetooth)" title=3D"Matrix - YS6000 (SD WiFi &amp; Bluetooth=
+)">Matrix - YS6000 (SD WiFi &amp; Bluetooth)</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/Matrix_-_4G_mod=
+ule_ME909u-521" title=3D"Matrix - 4G module ME909u-521">Matrix - 4G module =
+ME909u-521</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/Matrix_-_LTE_An=
+tenna" title=3D"Matrix - LTE Antenna">Matrix - LTE Antenna</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/Matrix_-_eMMC_M=
+odule" title=3D"Matrix - eMMC Module">Matrix - eMMC Module</a></li></ul>
+</td></tr></tbody></table>
+<h3><span class=3D"mw-headline" id=3D"Breakout"><span class=3D"mw-headline-=
+number">4.6</span> Breakout</span></h3>
+<table border=3D"0" cellpadding=3D"10" width=3D"100%">
+
+<tbody><tr>
+<td width=3D"32%" valign=3D"top" align=3D"left">
+<ul><li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/Breakout_-_=
+0.96%27128x64_OLED" title=3D"Breakout - 0.96'128x64 OLED">Breakout - 0.96'1=
+28x64 OLED</a></li></ul>
+</td></tr></tbody></table>
+<h3><span class=3D"mw-headline" id=3D"BakeBit"><span class=3D"mw-headline-n=
+umber">4.7</span> BakeBit</span></h3>
+<table border=3D"0" cellpadding=3D"10" width=3D"100%">
+
+<tbody><tr>
+<td width=3D"32%" valign=3D"top" align=3D"left">
+<ul><li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/BakeBit_-_N=
+anoHat_Hub" title=3D"BakeBit - NanoHat Hub">BakeBit - NanoHat Hub</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/BakeBit_Starter=
+_Kit_with_NanoPi_NEO/NEO2/NEO_Air" title=3D"BakeBit Starter Kit with NanoPi=
+ NEO/NEO2/NEO Air">BakeBit Starter Kit with NanoPi NEO/NEO2/NEO Air</a></li=
+></ul>
+</td></tr></tbody></table>
+<table border=3D"0" cellpadding=3D"10" width=3D"100%">
+
+
+<tbody><tr>
+<td width=3D"32%" valign=3D"top" align=3D"left">
+<ul><li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/BakeBit_-_B=
+utton" title=3D"BakeBit - Button">BakeBit - Button</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/BakeBit_-_Buzze=
+r" title=3D"BakeBit - Buzzer">BakeBit - Buzzer</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/BakeBit_-_Green=
+_LED" title=3D"BakeBit - Green LED">BakeBit - Green LED</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/BakeBit_-_JoySt=
+ick" title=3D"BakeBit - JoyStick">BakeBit - JoyStick</a></li></ul>
+</td>
+<td width=3D"32%" valign=3D"top" align=3D"left">
+<ul><li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/BakeBit_-_L=
+ED_Bar" title=3D"BakeBit - LED Bar">BakeBit - LED Bar</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/BakeBit_-_Light=
+_Sensor" title=3D"BakeBit - Light Sensor">BakeBit - Light Sensor</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/BakeBit_-_OLED_=
+128x64" title=3D"BakeBit - OLED 128x64">BakeBit - OLED 128x64</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/BakeBit_-_Red_L=
+ED" title=3D"BakeBit - Red LED">BakeBit - Red LED</a></li></ul>
+</td>
+<td width=3D"32%" valign=3D"top" align=3D"left">
+<ul><li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/BakeBit_-_R=
+otary_Angle_Sensor" title=3D"BakeBit - Rotary Angle Sensor">BakeBit - Rotar=
+y Angle Sensor</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/BakeBit_-_Servo=
+" title=3D"BakeBit - Servo">BakeBit - Servo</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/BakeBit_-_Sound=
+_Sensor" title=3D"BakeBit - Sound Sensor">BakeBit - Sound Sensor</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/BakeBit_-_Ultra=
+sonic_Ranger" title=3D"BakeBit - Ultrasonic Ranger">BakeBit - Ultrasonic Ra=
+nger</a></li></ul>
+</td></tr></tbody></table>
+<h3><span class=3D"mw-headline" id=3D"HATs.26Docks"><span class=3D"mw-headl=
+ine-number">4.8</span> HATs&amp;Docks</span></h3>
+<div id=3D"HATsandDocks"></div>
+<table border=3D"0" cellpadding=3D"10" width=3D"100%">
+
+<tbody><tr>
+<td width=3D"32%" valign=3D"top" align=3D"left">
+<ul><li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/1-bay_NAS_D=
+ock" title=3D"1-bay NAS Dock">1-bay NAS Dock</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/1-bay_NAS_Dock_=
+v1.2_for_NanoPi_NEO/NEO2" title=3D"1-bay NAS Dock v1.2 for NanoPi NEO/NEO2"=
+>1-bay NAS Dock v1.2 for NanoPi NEO/NEO2</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/Mini_Shield_for=
+_NanoPi_Duo" title=3D"Mini Shield for NanoPi Duo">Mini Shield for NanoPi Du=
+o</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/Mini_Shield_for=
+_NanoPi_NEO_Core/Core2" title=3D"Mini Shield for NanoPi NEO Core/Core2">Min=
+i Shield for NanoPi NEO Core/Core2</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/NanoPi_Duo2_IoT=
+-Box" title=3D"NanoPi Duo2 IoT-Box">NanoPi Duo2 IoT-Box</a></li></ul>
+</td>
+<td width=3D"32%" valign=3D"top" align=3D"left">
+<ul><li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/NanoHat_Mot=
+or" title=3D"NanoHat Motor">NanoHat Motor</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/NanoHat_OLED" t=
+itle=3D"NanoHat OLED">NanoHat OLED</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/NanoHat_OLED_fo=
+r_NanoPi_NEO2_Black" title=3D"NanoHat OLED for NanoPi NEO2 Black">NanoHat O=
+LED for NanoPi NEO2 Black</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/NanoHat_PCM5102=
+A" title=3D"NanoHat PCM5102A">NanoHat PCM5102A</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/NanoHat_Proto" =
+title=3D"NanoHat Proto">NanoHat Proto</a></li></ul>
+</td>
+<td width=3D"32%" valign=3D"top" align=3D"left">
+<ul><li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/UNO_Dock_fo=
+r_NanoPi_NEO" title=3D"UNO Dock for NanoPi NEO">UNO Dock for NanoPi NEO</a>=
+</li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/UNO_Dock_V2.0_f=
+or_NanoPi_NEO" title=3D"UNO Dock V2.0 for NanoPi NEO">UNO Dock V2.0 for Nan=
+oPi NEO</a></li></ul>
+</td></tr></tbody></table>
+<table border=3D"0" cellpadding=3D"10" width=3D"100%">
+
+
+<tbody><tr>
+<td width=3D"32%" valign=3D"top" align=3D"left">
+<ul><li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/NanoPi_M4_S=
+ATA_HAT" title=3D"NanoPi M4 SATA HAT">NanoPi M4 SATA HAT</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/NVME_SSD_Adapte=
+r_for_M4" title=3D"NVME SSD Adapter for M4">NVME SSD Adapter for M4</a></li=
+>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/4x_USB_3.0_HAT_=
+for_M4" title=3D"4x USB 3.0 HAT for M4">4x USB 3.0 HAT for M4</a></li></ul>
+</td>
+<td width=3D"32%" valign=3D"top" align=3D"left">
+</td>
+<td width=3D"32%" valign=3D"top" align=3D"left">
+</td></tr></tbody></table>
+<h3><span class=3D"mw-headline" id=3D"Starter_Kit"><span class=3D"mw-headli=
+ne-number">4.9</span> Starter Kit</span></h3>
+<div id=3D"Starter_Kit"></div>
+<table border=3D"0" cellpadding=3D"10" width=3D"100%">
+
+<tbody><tr>
+<td width=3D"32%" valign=3D"top" align=3D"left">
+<ul><li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/Matrix_Star=
+ter_Kit_with_NanoPi" title=3D"Matrix Starter Kit with NanoPi">Matrix Starte=
+r Kit with NanoPi</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php?title=3DMatrix_=
+Starter_Kit_with_RasberryPi&amp;action=3Dedit&amp;redlink=3D1" class=3D"new=
+" title=3D"Matrix Starter Kit with RasberryPi (page does not exist)">Matrix=
+ Starter Kit with RasberryPi</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php?title=3DMatrix_=
+Starter_Kit_with_Arduino&amp;action=3Dedit&amp;redlink=3D1" class=3D"new" t=
+itle=3D"Matrix Starter Kit with Arduino (page does not exist)">Matrix Start=
+er Kit with Arduino</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/BakeBit" title=
+=3D"BakeBit" class=3D"mw-redirect">BakeBit Starter Kit with NEO</a></li></u=
+l>
+<p><br>
+</p>
+</td>
+<td width=3D"32%" valign=3D"top" align=3D"left">
+</td>
+<td width=3D"32%" valign=3D"top" align=3D"left">
+</td></tr></tbody></table>
+<h3><span class=3D"mw-headline" id=3D"LCD_Modulse"><span class=3D"mw-headli=
+ne-number">4.10</span> LCD Modulse</span></h3>
+<table border=3D"0" cellpadding=3D"10" width=3D"100%">
+
+<tbody><tr>
+<td width=3D"32%" valign=3D"top" align=3D"left">
+<ul><li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/LCD-H43" ti=
+tle=3D"LCD-H43">LCD-H43</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/LCD-HD700" titl=
+e=3D"LCD-HD700">LCD-HD700</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/LCD-HD702" titl=
+e=3D"LCD-HD702">LCD-HD702</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/LCD-HD702V" tit=
+le=3D"LCD-HD702V">LCD-HD702V</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/LCD-HD702E" tit=
+le=3D"LCD-HD702E">LCD-HD702E</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/LCD-HD101" titl=
+e=3D"LCD-HD101">LCD-HD101</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/LCD-K116E" titl=
+e=3D"LCD-K116E">LCD-K116E</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php?title=3DLCD-L80=
+&amp;action=3Dedit&amp;redlink=3D1" class=3D"new" title=3D"LCD-L80 (page do=
+es not exist)">LCD-L80</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php?title=3DLCD-T35=
+&amp;action=3Dedit&amp;redlink=3D1" class=3D"new" title=3D"LCD-T35 (page do=
+es not exist)">LCD-T35</a></li></ul>
+</td>
+<td width=3D"32%" valign=3D"top" align=3D"left">
+<ul><li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php?title=3DLCD=
+-TD35&amp;action=3Dedit&amp;redlink=3D1" class=3D"new" title=3D"LCD-TD35 (p=
+age does not exist)">LCD-TD35</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/LCD-X710" title=
+=3D"LCD-X710">LCD-X710</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php?title=3DLCD-N35=
+&amp;action=3Dedit&amp;redlink=3D1" class=3D"new" title=3D"LCD-N35 (page do=
+es not exist)">LCD-N35</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php?title=3DLCD-N43=
+&amp;action=3Dedit&amp;redlink=3D1" class=3D"new" title=3D"LCD-N43 (page do=
+es not exist)">LCD-N43</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php?title=3DLCD-P35=
+&amp;action=3Dedit&amp;redlink=3D1" class=3D"new" title=3D"LCD-P35 (page do=
+es not exist)">LCD-P35</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/LCD-P43" title=
+=3D"LCD-P43">LCD-P43</a></li></ul>
+</td></tr></tbody></table>
+<table border=3D"0" cellpadding=3D"10" width=3D"100%">
+
+<tbody><tr>
+<td width=3D"32%" valign=3D"top" align=3D"left">
+<ul><li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/LCD-S430" t=
+itle=3D"LCD-S430">LCD-S430</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/LCD-S70" title=
+=3D"LCD-S70">LCD-S70</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/LCD-S700" title=
+=3D"LCD-S700">LCD-S700</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/LCD-S700" title=
+=3D"LCD-S700">LCD-S700</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/LCD-S702" title=
+=3D"LCD-S702">LCD-S702</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php?title=3DLCD-S70=
+D&amp;action=3Dedit&amp;redlink=3D1" class=3D"new" title=3D"LCD-S70D (page =
+does not exist)">LCD-S70D</a></li></ul>
+</td>
+<td width=3D"32%" valign=3D"top" align=3D"left">
+<ul><li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php?title=3DLCD=
+-W35&amp;action=3Dedit&amp;redlink=3D1" class=3D"new" title=3D"LCD-W35 (pag=
+e does not exist)">LCD-W35</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/LCD-W35B" title=
+=3D"LCD-W35B">LCD-W35B</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php?title=3DLCD-W50=
+&amp;action=3Dedit&amp;redlink=3D1" class=3D"new" title=3D"LCD-W50 (page do=
+es not exist)">LCD-W50</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/LCD-W101" title=
+=3D"LCD-W101">LCD-W101</a></li>
+<li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/LCD-W500" title=
+=3D"LCD-W500">LCD-W500</a></li></ul>
+</td></tr></tbody></table>
+<h3><span class=3D"mw-headline" id=3D"3D_Models"><span class=3D"mw-headline=
+-number">4.11</span> 3D Models</span></h3>
+<div id=3D"3DModules"></div>
+<h3><span class=3D"mw-headline" id=3D"Accessories"><span class=3D"mw-headli=
+ne-number">4.12</span> Accessories</span></h3>
+<div id=3D"Accessories"></div>
+<table border=3D"0" cellpadding=3D"10" width=3D"100%">
+
+<tbody><tr>
+<td width=3D"32%" valign=3D"top" align=3D"left">
+<ul><li><a href=3D"https://wiki.friendlyelec.com/wiki/index.php?title=3DNan=
+oPC-T1_Case&amp;action=3Dedit&amp;redlink=3D1" class=3D"new" title=3D"NanoP=
+C-T1 Case (page does not exist)">NanoPC-T1 Case</a></li></ul>
+</td>
+<td width=3D"32%" valign=3D"top" align=3D"left">
+<p><br>
+</p>
+</td>
+<td width=3D"32%" valign=3D"top" align=3D"left">
+</td></tr></tbody></table>
+
+<!--=20
+NewPP limit report
+CPU time usage: 0.049 seconds
+Real time usage: 0.051 seconds
+Preprocessor visited node count: 106/1000000
+Preprocessor generated node count: 190/1000000
+Post=E2=80=90expand include size: 3705/2097152 bytes
+Template argument size: 0/2097152 bytes
+Highest expansion depth: 2/40
+Expensive parser function count: 0/100
+-->
+
+<!--=20
+Transclusion expansion time report (%,ms,calls,template)
+100.00%    2.203      1 - -total
+100.00%    2.203      1 - Template:Matrix
+-->
+
+<!-- Saved in parser cache with key friendlyarm_wiki:pcache:idhash:3-0!*!0!=
+1!en!*!* and timestamp 20240722094940 and revision id 26085
+ -->
+</div>									<div class=3D"printfooter">
+						Retrieved from "<a dir=3D"ltr" href=3D"https://wiki.friendlyelec.com/=
+wiki/index.php?title=3DMain_Page&amp;oldid=3D26085">https://wiki.friendlyel=
+ec.com/wiki/index.php?title=3DMain_Page&amp;oldid=3D26085</a>"					</div>
+													<div id=3D"catlinks" class=3D"catlinks catlinks-allhidden"></d=
+iv>												<div class=3D"visualClear"></div>
+							</div>
+		</div>
+		<div id=3D"mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id=3D"mw-head">
+									<div id=3D"p-personal" role=3D"navigation" class=3D"" aria-labelle=
+dby=3D"p-personal-label">
+						<h3 id=3D"p-personal-label">Personal tools</h3>
+						<ul>
+							<li id=3D"pt-login"><a href=3D"https://wiki.friendlyelec.com/wiki/in=
+dex.php?title=3DSpecial:UserLogin&amp;returnto=3DMain+Page" title=3D"You ar=
+e encouraged to log in; however, it is not mandatory [alt-shift-o]" accessk=
+ey=3D"o">Log in</a></li>						</ul>
+					</div>
+									<div id=3D"left-navigation">
+										<div id=3D"p-namespaces" role=3D"navigation" class=3D"vectorTabs"=
+ aria-labelledby=3D"p-namespaces-label">
+						<h3 id=3D"p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li id=3D"ca-nstab-main" class=3D"selected"><span><a href=3D=
+"https://wiki.friendlyelec.com/wiki/index.php/Main_Page" title=3D"View the =
+content page [alt-shift-c]" accesskey=3D"c">Page</a></span></li>
+															<li id=3D"ca-talk" class=3D"new"><span><a href=3D"https://wi=
+ki.friendlyelec.com/wiki/index.php?title=3DTalk:Main_Page&amp;action=3Dedit=
+&amp;redlink=3D1" title=3D"Discussion about the content page [alt-shift-t]"=
+ accesskey=3D"t">Discussion</a></span></li>
+													</ul>
+					</div>
+										<div id=3D"p-variants" role=3D"navigation" class=3D"vectorMenu em=
+ptyPortlet" aria-labelledby=3D"p-variants-label">
+												<h3 id=3D"p-variants-label" tabindex=3D"0"><span>Variants</span=
+><a href=3D"https://wiki.friendlyelec.com/wiki/index.php/Main_Page#" tabind=
+ex=3D"-1"></a></h3>
+
+						<div class=3D"menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id=3D"right-navigation">
+										<div id=3D"p-views" role=3D"navigation" class=3D"vectorTabs" aria=
+-labelledby=3D"p-views-label">
+						<h3 id=3D"p-views-label">Views</h3>
+						<ul>
+															<li id=3D"ca-view" class=3D"selected"><span><a href=3D"https=
+://wiki.friendlyelec.com/wiki/index.php/Main_Page">Read</a></span></li>
+															<li id=3D"ca-viewsource"><span><a href=3D"https://wiki.frien=
+dlyelec.com/wiki/index.php?title=3DMain_Page&amp;action=3Dedit" title=3D"Th=
+is page is protected.
+You can view its source [alt-shift-e]" accesskey=3D"e">View source</a></spa=
+n></li>
+															<li id=3D"ca-history" class=3D"collapsible"><span><a href=3D=
+"https://wiki.friendlyelec.com/wiki/index.php?title=3DMain_Page&amp;action=
+=3Dhistory" title=3D"Past revisions of this page [alt-shift-h]" accesskey=
+=3D"h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id=3D"p-cactions" role=3D"navigation" class=3D"vectorMenu em=
+ptyPortlet" aria-labelledby=3D"p-cactions-label" style=3D"">
+						<h3 id=3D"p-cactions-label" tabindex=3D"0"><span>More</span><a href=
+=3D"https://wiki.friendlyelec.com/wiki/index.php/Main_Page#" tabindex=3D"-1=
+"></a></h3>
+
+						<div class=3D"menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id=3D"p-search" role=3D"search">
+						<h3>
+							<label for=3D"searchInput">Search</label>
+						</h3>
+
+						<form action=3D"https://wiki.friendlyelec.com/wiki/index.php" id=3D"s=
+earchform">
+														<div id=3D"simpleSearch">
+															<input type=3D"search" name=3D"search" placeholder=3D"Search=
+" title=3D"Search FriendlyELEC WiKi [alt-shift-f]" accesskey=3D"f" id=3D"se=
+archInput" tabindex=3D"1" autocomplete=3D"off"><input type=3D"submit" name=
+=3D"go" value=3D"Go" title=3D"Go to a page with this exact name if exists" =
+id=3D"searchButton" class=3D"searchButton">								</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id=3D"mw-panel">
+				<div id=3D"p-logo" role=3D"banner"><a class=3D"mw-wiki-logo" href=3D"ht=
+tps://wiki.friendlyelec.com/wiki/index.php/Main_Page" title=3D"Visit the ma=
+in page"></a></div>
+						<div class=3D"portal" role=3D"navigation" id=3D"p-Navigation" aria-la=
+belledby=3D"p-Navigation-label">
+			<h3 id=3D"p-Navigation-label">Navigation</h3>
+
+			<div class=3D"body">
+									<ul>
+													<li id=3D"n-Getting-Started"><a href=3D"https://wiki.friendlye=
+lec.com/wiki/index.php/Main_Page#GettingStarted">Getting Started</a></li>
+													<li id=3D"n-Learning"><a href=3D"https://wiki.friendlyelec.com=
+/wiki/index.php/Main_Page#Learning">Learning</a></li>
+													<li id=3D"n-Release-notes"><a href=3D"https://wiki.friendlyele=
+c.com/wiki/index.php/Release_notes">Release notes</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class=3D"portal" role=3D"navigation" id=3D"p-Products" aria-labelle=
+dby=3D"p-Products-label">
+			<h3 id=3D"p-Products-label">Products</h3>
+
+			<div class=3D"body">
+									<ul>
+													<li id=3D"n-CPU-Boards"><a href=3D"https://wiki.friendlyelec.c=
+om/wiki/index.php/Main_Page#CPUBoards">CPU Boards</a></li>
+													<li id=3D"n-Carrier-Boards"><a href=3D"https://wiki.friendlyel=
+ec.com/wiki/index.php/Main_Page#CarrierBoards">Carrier Boards</a></li>
+													<li id=3D"n-NanoPC-Series"><a href=3D"https://wiki.friendlyele=
+c.com/wiki/index.php/Main_Page#NanoPCSeries">NanoPC Series</a></li>
+													<li id=3D"n-Mini-Boards"><a href=3D"https://wiki.friendlyelec.=
+com/wiki/index.php/Main_Page#MiniBoards">Mini Boards</a></li>
+													<li id=3D"n-Matrix"><a href=3D"https://wiki.friendlyelec.com/w=
+iki/index.php/Main_Page#Matrix">Matrix</a></li>
+													<li id=3D"n-BakeBit"><a href=3D"https://wiki.friendlyelec.com/=
+wiki/index.php/Main_Page#BakeBit">BakeBit</a></li>
+													<li id=3D"n-Hats.26Docks"><a href=3D"https://wiki.friendlyelec=
+.com/wiki/index.php/Main_Page#Hats.26Docks">Hats&amp;Docks</a></li>
+													<li id=3D"n-LCD-Modules"><a href=3D"https://wiki.friendlyelec.=
+com/wiki/index.php/Main_Page#LCDModules">LCD Modules</a></li>
+													<li id=3D"n-3D-Models"><a href=3D"https://wiki.friendlyelec.co=
+m/wiki/index.php/Main_Page#3DModels">3D Models</a></li>
+													<li id=3D"n-Accessories"><a href=3D"https://wiki.friendlyelec.=
+com/wiki/index.php/Main_Page#Accessories">Accessories</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class=3D"portal" role=3D"navigation" id=3D"p-FAQ" aria-labelledby=
+=3D"p-FAQ-label">
+			<h3 id=3D"p-FAQ-label">FAQ</h3>
+
+			<div class=3D"body">
+									<ul>
+													<li id=3D"n-Linux"><a href=3D"https://wiki.friendlyelec.com/wi=
+ki/index.php/Linux_FAQ">Linux</a></li>
+													<li id=3D"n-Ubuntu"><a href=3D"https://wiki.friendlyelec.com/w=
+iki/index.php/Ubuntu_FAQ">Ubuntu</a></li>
+													<li id=3D"n-Android"><a href=3D"https://wiki.friendlyelec.com/=
+wiki/index.php/Android_FAQ">Android</a></li>
+													<li id=3D"n-WindowsCE"><a href=3D"https://wiki.friendlyelec.co=
+m/wiki/index.php/WindowsCE_FAQ">WindowsCE</a></li>
+													<li id=3D"n-Qt"><a href=3D"https://wiki.friendlyelec.com/wiki/=
+index.php/Qt_FAQ">Qt</a></li>
+													<li id=3D"n-Non-OS"><a href=3D"https://wiki.friendlyelec.com/w=
+iki/index.php/Non-OS_FAQ">Non-OS</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class=3D"portal" role=3D"navigation" id=3D"p-Support" aria-labelled=
+by=3D"p-Support-label">
+			<h3 id=3D"p-Support-label">Support</h3>
+
+			<div class=3D"body">
+									<ul>
+													<li id=3D"n-English-WebSite"><a href=3D"http://www.friendlyarm=
+.com/" rel=3D"nofollow" target=3D"_blank">English WebSite</a></li>
+													<li id=3D"n-English-Forum"><a href=3D"http://www.friendlyarm.n=
+et/" rel=3D"nofollow" target=3D"_blank">English Forum</a></li>
+													<li id=3D"n-.E4.B8.AD.E6.96.87.E5.AE.98.E6.96.B9.E7.BD.91.E7.A=
+B.99"><a href=3D"http://www.arm9.net/" rel=3D"nofollow" target=3D"_blank">=
+=E4=B8=AD=E6=96=87=E5=AE=98=E6=96=B9=E7=BD=91=E7=AB=99</a></li>
+													<li id=3D"n-.E4.B8.AD.E6.96.87.E8.AE.BA.E5.9D.9B"><a href=3D"h=
+ttp://www.arm9home.net/" rel=3D"nofollow" target=3D"_blank">=E4=B8=AD=E6=96=
+=87=E8=AE=BA=E5=9D=9B</a></li>
+													<li id=3D"n-FriendlyARM-Github"><a href=3D"https://github.com/=
+friendlyarm" rel=3D"nofollow" target=3D"_blank">FriendlyARM Github</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class=3D"portal" role=3D"navigation" id=3D"p-tb" aria-labelledby=3D=
+"p-tb-label">
+			<h3 id=3D"p-tb-label">Tools</h3>
+
+			<div class=3D"body">
+									<ul>
+													<li id=3D"t-whatlinkshere"><a href=3D"https://wiki.friendlyele=
+c.com/wiki/index.php/Special:WhatLinksHere/Main_Page" title=3D"A list of al=
+l wiki pages that link here [alt-shift-j]" accesskey=3D"j">What links here<=
+/a></li>
+													<li id=3D"t-recentchangeslinked"><a href=3D"https://wiki.frien=
+dlyelec.com/wiki/index.php/Special:RecentChangesLinked/Main_Page" title=3D"=
+Recent changes in pages linked from this page [alt-shift-k]" accesskey=3D"k=
+">Related changes</a></li>
+													<li id=3D"t-specialpages"><a href=3D"https://wiki.friendlyelec=
+.com/wiki/index.php/Special:SpecialPages" title=3D"A list of all special pa=
+ges [alt-shift-q]" accesskey=3D"q">Special pages</a></li>
+													<li id=3D"t-print"><a href=3D"https://wiki.friendlyelec.com/wi=
+ki/index.php?title=3DMain_Page&amp;printable=3Dyes" rel=3D"alternate" title=
+=3D"Printable version of this page [alt-shift-p]" accesskey=3D"p">Printable=
+ version</a></li>
+													<li id=3D"t-permalink"><a href=3D"https://wiki.friendlyelec.co=
+m/wiki/index.php?title=3DMain_Page&amp;oldid=3D26085" title=3D"Permanent li=
+nk to this revision of the page">Permanent link</a></li>
+													<li id=3D"t-info"><a href=3D"https://wiki.friendlyelec.com/wik=
+i/index.php?title=3DMain_Page&amp;action=3Dinfo" title=3D"More information =
+about this page">Page information</a></li>
+											</ul>
+							</div>
+		</div>
+				</div>
+		</div>
+		<div id=3D"footer" role=3D"contentinfo">
+							<ul id=3D"footer-info">
+											<li id=3D"footer-info-lastmod"> This page was last modified on 2=
+1 June 2024, at 09:22.</li>
+									</ul>
+							<ul id=3D"footer-places">
+											<li id=3D"footer-places-privacy"><a href=3D"https://wiki.friendl=
+yelec.com/wiki/index.php/FriendlyELEC_WiKi:Privacy_policy" title=3D"Friendl=
+yELEC WiKi:Privacy policy">Privacy policy</a></li>
+											<li id=3D"footer-places-about"><a href=3D"https://wiki.friendlye=
+lec.com/wiki/index.php/FriendlyELEC_WiKi:About" title=3D"FriendlyELEC WiKi:=
+About">About FriendlyELEC WiKi</a></li>
+											<li id=3D"footer-places-disclaimer"><a href=3D"https://wiki.frie=
+ndlyelec.com/wiki/index.php/FriendlyELEC_WiKi:General_disclaimer" title=3D"=
+FriendlyELEC WiKi:General disclaimer">Disclaimers</a></li>
+									</ul>
+										<ul id=3D"footer-icons" class=3D"noprint">
+											<li id=3D"footer-poweredbyico">
+															<a href=3D"https://www.mediawiki.org/"><img src=3D"https://w=
+iki.friendlyelec.com/wiki/resources/assets/poweredby_mediawiki_88x31.png" a=
+lt=3D"Powered by MediaWiki" width=3D"88" height=3D"31"></a>
+													</li>
+									</ul>
+						<div style=3D"clear:both"></div>
+		</div>
+	=09
+
+
+
+=09
+
+<div class=3D"suggestions" style=3D"display: none; font-size: 13px;"><div c=
+lass=3D"suggestions-results"></div><div class=3D"suggestions-special"></div=
+></div></body></html>
+------MultipartBoundary--809VM1ouUW0Z9lyP1P6054vC7WaG8NmOCaHTWhKJLj----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-50ec55cf-4973-49df-9b2b-d4820729e315@mhtml.blink
+
+@charset "utf-8";
+
+.mw-collapsible-toggle { float: right; user-select: none; }
+
+.mw-content-ltr .mw-collapsible-toggle, .mw-content-rtl .mw-content-ltr .mw=
+-collapsible-toggle { float: right; }
+
+.mw-content-rtl .mw-collapsible-toggle, .mw-content-ltr .mw-content-rtl .mw=
+-collapsible-toggle { float: left; }
+
+.mw-customtoggle, .mw-collapsible-toggle { cursor: pointer; }
+
+caption .mw-collapsible-toggle, .mw-content-ltr caption .mw-collapsible-tog=
+gle, .mw-content-rtl caption .mw-collapsible-toggle, .mw-content-rtl .mw-co=
+ntent-ltr caption .mw-collapsible-toggle, .mw-content-ltr .mw-content-rtl c=
+aption .mw-collapsible-toggle { float: none; }
+
+li .mw-collapsible-toggle, .mw-content-ltr li .mw-collapsible-toggle, .mw-c=
+ontent-rtl li .mw-collapsible-toggle, .mw-content-rtl .mw-content-ltr li .m=
+w-collapsible-toggle, .mw-content-ltr .mw-content-rtl li .mw-collapsible-to=
+ggle { float: none; }
+
+.mw-collapsible-toggle-li { list-style: none; }
+
+.suggestions { overflow: hidden; position: absolute; top: 0px; left: 0px; w=
+idth: 0px; border: none; z-index: 1099; padding: 0px; margin: -1px 0px 0px;=
+ }
+
+.suggestions-special { position: relative; background-color: white; cursor:=
+ pointer; border: 1px solid rgb(170, 170, 170); margin: -2px 0px 0px; displ=
+ay: none; padding: 0.25em; line-height: 1.25em; }
+
+.suggestions-results { background-color: white; cursor: pointer; border: 1p=
+x solid rgb(170, 170, 170); padding: 0px; margin: 0px; }
+
+.suggestions-result { color: black; margin: 0px; line-height: 1.5em; paddin=
+g: 0.01em 0.25em; text-align: left; overflow: hidden; text-overflow: ellips=
+is; white-space: nowrap; }
+
+.suggestions-result-current { background-color: rgb(76, 89, 166); color: wh=
+ite; }
+
+.suggestions-special .special-label { color: gray; text-align: left; }
+
+.suggestions-special .special-query { color: black; font-style: italic; tex=
+t-align: left; }
+
+.suggestions-special .special-hover { background-color: silver; }
+
+.suggestions-result-current .special-label, .suggestions-result-current .sp=
+ecial-query { color: white; }
+
+.highlight { font-weight: bold; }
+
+.postedit-container { margin: 0px auto; position: fixed; top: 0px; height: =
+0px; left: 50%; z-index: 1000; font-size: 13px; }
+
+.postedit-container:hover { cursor: pointer; }
+
+.postedit { position: relative; top: 0.6em; left: -50%; padding: 0.6em 3.6e=
+m 0.6em 1.1em; line-height: 1.5625em; color: rgb(98, 100, 101); background-=
+color: rgb(244, 244, 244); border: 1px solid rgb(220, 217, 217); text-shado=
+w: rgba(255, 255, 255, 0.5) 0px 0.0625em 0px; border-radius: 5px; box-shado=
+w: rgb(204, 204, 204) 0px 2px 5px 0px; transition: all 0.25s ease-in-out 0s=
+; }
+
+.skin-monobook .postedit { top: 6em !important; }
+
+.postedit-faded { opacity: 0; }
+
+.postedit-icon { padding-left: 41px; line-height: 25px; background-repeat: =
+no-repeat; background-position: 8px 50%; }
+
+.postedit-icon-checkmark { background-image: url("data:image/png;base64,iVB=
+ORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAABblBMVEUAAAD///////9PfTf///80aR=
+dTgjn///9Feij///////////9Rfzf///////////9PfjZRgDh1o1xOfTb///////+bwYqLtnj//=
+/////9PfTa82K////9WhT6YxIL///9QgDdTgzr////////j7uDl7eLq8efi693k7OH///////9U=
+hjuBr2rp9uRUhjr///9YljVKgir///9WiTlYjT3////9/v57vFlbkT5PjC9dlD/5/fhuq09stUT=
+s9uhxuElctCpfnT1huDFloEZloUZmpENmvDZpvDxpvTxqvjxrvT5rvT9rwTxsqktswD5uwkBvuU=
+dxw0NztFBztU9ztVBzwkp0tlJ1xkd2t1R3uVR4w1F4xk54x014yE15uVZ5v1R5xVB6v1R7yFJ8w=
+Vh9xVl9yFR9yVd9ylN+xVh+yFd/x1l/yFeAylmEx1+Ny2uY0Hqe04Wj1Ymv3Ze33qLD47TJ5L3O=
+6cPU7Mrq9eb2+/Q4j37OAAAAQHRSTlMAAQIEBAUFBQwPFB4fJCUoKiosQEhJS01RUlZZXmdydXa=
+ChYuSlJSWmJmoq6uur8LExcvM19fg5ejt8fX2+Pr7SljgewAAAKpJREFUGBkFwQNCAwAAAMDLtl=
+3LtrG4rWXbtvX77gAgZ6grFwC0bhwNVgKgdPZx8b0dgLi+s7Wn0VoAqpfOI9+BNADZI7fLrz2pS=
+EwGHZuH+78lSK8ZLkLezF3ooyUG3VPXq2USei9WngeyoG195yBYWDF3E/2pAhl1e9Gr8bGT+bfO=
+FCC2fnvh4X7rcqIAQNNu+HT6sxkAjceTL/2ZAIhv+PorBwBJxfkA//dFHSCBy/UTAAAAAElFTkS=
+uQmCC"); background-position: left center; }
+
+.postedit-close { position: absolute; padding: 0px 0.8em; right: 0px; top: =
+0px; font-size: 1.25em; font-weight: bold; line-height: 2.3em; color: black=
+; text-shadow: white 0px 0.0625em 0px; text-decoration: none; opacity: 0.2;=
+ }
+
+.postedit-close:hover { color: black; text-decoration: none; opacity: 0.4; }
+------MultipartBoundary--809VM1ouUW0Z9lyP1P6054vC7WaG8NmOCaHTWhKJLj----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-5ead3b0d-0221-461c-82d6-7f7573b9617c@mhtml.blink
+
+@charset "utf-8";
+
+.suggestions a.mw-searchSuggest-link, .suggestions a.mw-searchSuggest-link:=
+hover, .suggestions a.mw-searchSuggest-link:active, .suggestions a.mw-searc=
+hSuggest-link:focus { color: black; text-decoration: none; }
+
+.suggestions-result-current a.mw-searchSuggest-link, .suggestions-result-cu=
+rrent a.mw-searchSuggest-link:hover, .suggestions-result-current a.mw-searc=
+hSuggest-link:active, .suggestions-result-current a.mw-searchSuggest-link:f=
+ocus { color: white; }
+
+.suggestions a.mw-searchSuggest-link .special-query { overflow: hidden; tex=
+t-overflow: ellipsis; white-space: nowrap; }
+------MultipartBoundary--809VM1ouUW0Z9lyP1P6054vC7WaG8NmOCaHTWhKJLj----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-e2831e58-5f99-4cc6-99a1-9942f099d8d4@mhtml.blink
+
+@charset "utf-8";
+
+a:lang(ar), a:lang(kk-arab), a:lang(mzn), a:lang(ps), a:lang(ur) { text-dec=
+oration: none; }
+------MultipartBoundary--809VM1ouUW0Z9lyP1P6054vC7WaG8NmOCaHTWhKJLj----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://wiki.friendlyelec.com/wiki/load.php?debug=false&lang=en&modules=mediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles&only=styles&skin=vector&*
+
+@charset "utf-8";
+
+@media print {
+  .noprint, div#jump-to-nav, .mw-jump, div.top, div#column-one, #colophon, =
+.mw-editsection, .mw-editsection-like, .toctoggle, #toc.tochidden, div#f-po=
+weredbyico, div#f-copyrightico, li#about, li#disclaimer, li#mobileview, li#=
+privacy, #footer-places, .mw-hidden-catlinks, tr.mw-metadata-show-hide-exte=
+nded, span.mw-filepage-other-resolutions, #filetoc, .usermessage, .patrolli=
+nk, .ns-0 .mw-redirectedfrom, #mw-navigation, #siteNotice { display: none; =
+}
+  .wikitable, .thumb, img { break-inside: avoid; }
+  h2, h3, h4, h5, h6 { break-after: avoid; }
+  p { widows: 3; orphans: 3; }
+  body { background: white; color: black; margin: 0px; padding: 0px; }
+  ul { list-style-type: square; }
+  h1, h2, h3, h4, h5, h6 { font-weight: bold; }
+  dt { font-weight: bold; }
+  p { margin: 1em 0px; line-height: 1.2em; }
+  pre, .mw-code { border: 1pt dashed black; white-space: pre; font-size: 8p=
+t; overflow: auto; padding: 1em 0px; background: white; color: black; }
+  #globalWrapper { width: 100% !important; min-width: 0px !important; }
+  .mw-body { background: white; direction: ltr; color: black; border: none =
+!important; padding: 0px !important; margin: 0px !important; }
+  #column-content { margin: 0px !important; }
+  #column-content .mw-body { padding: 1em; margin: 0px !important; }
+  #toc { border: 1px solid rgb(170, 170, 170); background-color: rgb(249, 2=
+49, 249); padding: 5px; display: table; zoom: 1; }
+  #footer { background: white; color: black; margin-top: 1em; border-top: 1=
+px solid rgb(170, 170, 170); direction: ltr; }
+  img { border: none; vertical-align: middle; }
+  span.texhtml { font-family: serif; }
+  a.stub, a.new { color: rgb(186, 0, 0); text-decoration: none; }
+  a { color: black !important; background: none !important; padding: 0px !i=
+mportant; }
+  a:link, a:visited { color: rgb(85, 34, 0); background: transparent; text-=
+decoration: underline; }
+  .mw-body a.external.text::after, .mw-body a.external.autonumber::after { =
+content: " (" attr(href) ")"; }
+  .mw-body a.external.text[href^=3D"//"]::after, .mw-body a.external.autonu=
+mber[href^=3D"//"]::after { content: " (https:" attr(href) ")"; }
+  a, a.external, a.new, a.stub { color: black !important; text-decoration: =
+none !important; }
+  a, a.external, a.new, a.stub { color: inherit !important; text-decoration=
+: inherit !important; }
+  div.floatright { float: right; clear: right; position: relative; margin: =
+0.5em 0px 0.8em 1.4em; }
+  div.floatright p { font-style: italic; }
+  div.floatleft { float: left; clear: left; position: relative; margin: 0.5=
+em 1.4em 0.8em 0px; }
+  div.floatleft p { font-style: italic; }
+  div.center { text-align: center; }
+  div.thumb { border: none; width: auto; margin-top: 0.5em; margin-bottom: =
+0.8em; background-color: transparent; }
+  div.thumbinner { border: 1px solid rgb(204, 204, 204); background-color: =
+white; font-size: 94%; text-align: center; overflow: hidden; padding: 3px !=
+important; }
+  html .thumbimage { border: 1px solid rgb(204, 204, 204); }
+  html .thumbcaption { border: none; text-align: left; line-height: 1.4em; =
+font-size: 94%; padding: 3px !important; }
+  div.magnify { display: none; }
+  div.tright { float: right; clear: right; margin: 0.5em 0px 0.8em 1.4em; }
+  div.tleft { float: left; clear: left; margin: 0.5em 1.4em 0.8em 0px; }
+  img.thumbborder { border: 1px solid rgb(221, 221, 221); }
+  li.gallerybox { vertical-align: top; display: inline-block; }
+  ul.gallery, li.gallerybox { zoom: 1; }
+  ul.gallery { margin: 2px; padding: 2px; display: block; }
+  li.gallerycaption { font-weight: bold; text-align: center; display: block=
+; overflow-wrap: break-word; }
+  li.gallerybox div.thumb { text-align: center; border: 1px solid rgb(204, =
+204, 204); margin: 2px; }
+  div.gallerytext { overflow: hidden; font-size: 94%; padding: 2px 4px; ove=
+rflow-wrap: break-word; }
+  table.wikitable, table.mw_metadata { margin: 1em 0px; border: 1px solid r=
+gb(170, 170, 170); background: white; border-collapse: collapse; }
+  table.wikitable > tr > th, table.wikitable > tr > td, table.wikitable > *=
+ > tr > th, table.wikitable > * > tr > td, .mw_metadata th, .mw_metadata td=
+ { border: 1px solid rgb(170, 170, 170); padding: 0.2em; }
+  table.wikitable > tr > th, table.wikitable > * > tr > th, .mw_metadata th=
+ { text-align: center; background: white; font-weight: bold; }
+  table.wikitable > caption, .mw_metadata caption { font-weight: bold; }
+  table.listing, table.listing td { border: 1pt solid black; border-collaps=
+e: collapse; }
+  a.sortheader { margin: 0px 0.3em; }
+  .catlinks ul { display: inline; margin: 0px; padding: 0px; list-style: no=
+ne none; }
+  .catlinks li { display: inline-block; line-height: 1.15em; padding: 0px 0=
+.4em; border-left: 1px solid rgb(170, 170, 170); margin: 0.1em 0px; zoom: 1=
+; }
+  .catlinks li:first-child { padding-left: 0.2em; border-left: none; }
+  .printfooter { padding: 1em 0px; }
+}
+
+@media screen {
+  .mw-content-ltr { direction: ltr; }
+  .mw-content-rtl { direction: rtl; }
+  .sitedir-ltr textarea, .sitedir-ltr input { direction: ltr; }
+  .sitedir-rtl textarea, .sitedir-rtl input { direction: rtl; }
+  .mw-userlink { unicode-bidi: embed; }
+  mark { background-color: yellow; color: black; }
+  wbr { display: inline-block; }
+  input[type=3D"submit"], input[type=3D"button"], input[type=3D"reset"], in=
+put[type=3D"file"] { direction: ltr; }
+  textarea[dir=3D"ltr"], input[dir=3D"ltr"] { direction: ltr; }
+  textarea[dir=3D"rtl"], input[dir=3D"rtl"] { direction: rtl; }
+  abbr[title], .explain[title] { border-bottom: 1px dotted; cursor: help; }
+  .mw-plusminus-pos { color: rgb(0, 100, 0); }
+  .mw-plusminus-neg { color: rgb(139, 0, 0); }
+  .mw-plusminus-null { color: rgb(170, 170, 170); }
+  .mw-plusminus-pos, .mw-plusminus-neg, .mw-plusminus-null { unicode-bidi: =
+isolate; }
+  .allpagesredirect, .redirect-in-category, .watchlistredir { font-style: i=
+talic; }
+  span.comment { font-style: italic; }
+  span.changedby { font-size: 95%; }
+  .texvc { direction: ltr; unicode-bidi: embed; }
+  img.tex { vertical-align: middle; }
+  span.texhtml { font-family: serif; }
+  #wikiPreview.ontop { margin-bottom: 1em; }
+  #editform, #toolbar, #wpTextbox1 { clear: both; }
+  div.mw-filepage-resolutioninfo { font-size: smaller; }
+  h2#filehistory { clear: both; }
+  table.filehistory th, table.filehistory td { vertical-align: top; }
+  table.filehistory th { text-align: left; }
+  table.filehistory td.mw-imagepage-filesize, table.filehistory th.mw-image=
+page-filesize { white-space: nowrap; }
+  table.filehistory td.filehistory-selected { font-weight: bold; }
+  .filehistory a img, #file img:hover { background: url("data:image/png;bas=
+e64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAAAAAA6mKC9AAAAGElEQVQYV2N4DwX/oYBhgAR=
+gDJjEAAkAAEC99wFuu0VFAAAAAElFTkSuQmCC") repeat white; }
+  li span.deleted, span.history-deleted { text-decoration: line-through; co=
+lor: rgb(136, 136, 136); font-style: italic; }
+  .not-patrolled { background-color: rgb(255, 255, 170); }
+  .unpatrolled { font-weight: bold; color: red; }
+  div.patrollink { font-size: 75%; text-align: right; }
+  td.mw-label { text-align: right; }
+  td.mw-input { text-align: left; }
+  td.mw-submit { text-align: left; }
+  td.mw-label { vertical-align: top; }
+  .prefsection td.mw-label { width: 20%; }
+  .prefsection table { width: 100%; }
+  .prefsection table.mw-htmlform-matrix { width: auto; }
+  .mw-icon-question { background-image: linear-gradient(transparent, transp=
+arent), url("data:image/svg+xml,%3C%3Fxml%20version%3D%221.0%22%20encoding%=
+3D%22UTF-8%22%3F%3E%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg=
+%22%20width%3D%2221.059%22%20height%3D%2221.06%22%3E%3Cpath%20fill%3D%22%23=
+575757%22%20d%3D%22M10.529%200c-5.814%200-10.529%204.714-10.529%2010.529s4.=
+715%2010.53%2010.529%2010.53c5.816%200%2010.529-4.715%2010.529-10.53s-4.712=
+-10.529-10.529-10.529zm-.002%2016.767c-.861%200-1.498-.688-1.498-1.516%200-=
+.862.637-1.534%201.498-1.534.828%200%201.5.672%201.5%201.534%200%20.827-.67=
+2%201.516-1.5%201.516zm2.137-6.512c-.723.568-1%20.931-1%201.739v.5h-2.205v-=
+.603c0-1.517.449-2.136%201.154-2.688.707-.552%201.139-.845%201.139-1.637%20=
+0-.672-.414-1.051-1.24-1.051-.707%200-1.328.189-1.982.638l-1.051-1.807c.861=
+-.604%201.93-1.034%203.342-1.034%201.912%200%203.516%201.051%203.516%203.06=
+6-.001%201.43-.794%202.188-1.673%202.877z%22%2F%3E%3C%2Fsvg%3E"); backgroun=
+d-repeat: no-repeat; background-size: 13px 13px; display: inline-block; hei=
+ght: 13px; width: 13px; margin-left: 4px; }
+  .mw-icon-question:lang(ar), .mw-icon-question:lang(fa), .mw-icon-question=
+:lang(ur) { transform: scaleX(-1); }
+  td.mw-submit { white-space: nowrap; }
+  table.mw-htmlform-nolabel td.mw-label { width: 1px; }
+  tr.mw-htmlform-vertical-label td.mw-label { text-align: left !important; =
+}
+  .mw-htmlform-invalid-input td.mw-input input { border-color: red; }
+  .mw-htmlform-flatlist div.mw-htmlform-flatlist-item { display: inline; ma=
+rgin-right: 1em; white-space: nowrap; }
+  .mw-htmlform-matrix td { padding-left: 0.5em; padding-right: 0.5em; }
+  input#wpSummary { width: 80%; margin-bottom: 1em; }
+  .mw-content-ltr .thumbcaption { text-align: left; }
+  .mw-content-ltr .magnify { float: right; }
+  .mw-content-rtl .thumbcaption { text-align: right; }
+  .mw-content-rtl .magnify { float: left; }
+  #catlinks { text-align: left; }
+  .catlinks ul { display: inline; margin: 0px; padding: 0px; list-style: no=
+ne none; }
+  .catlinks li { display: inline-block; line-height: 1.25em; border-left: 1=
+px solid rgb(170, 170, 170); margin: 0.125em 0px; padding: 0px 0.5em; zoom:=
+ 1; }
+  .catlinks li:first-child { padding-left: 0.25em; border-left: none; }
+  .catlinks li a.mw-redirect { font-style: italic; }
+  .mw-hidden-cats-hidden { display: none; }
+  .catlinks-allhidden { display: none; }
+  p.mw-ipb-conveniencelinks, p.mw-protect-editreasons, p.mw-filedelete-edit=
+reasons, p.mw-delete-editreasons, p.mw-revdel-editreasons, p.mw-upload-edit=
+licenses { font-size: 90%; text-align: right; }
+  .autocomment { color: gray; }
+  #pagehistory .history-user { margin-left: 0.4em; margin-right: 0.2em; }
+  #pagehistory span.minor { font-weight: bold; }
+  #pagehistory li { border: 1px solid white; }
+  #pagehistory li.selected { background-color: rgb(249, 249, 249); border: =
+1px dashed rgb(170, 170, 170); }
+  .mw-history-revisionactions, #mw-fileduplicatesearch-icon { float: right;=
+ }
+  .newpage, .minoredit, .botedit { font-weight: bold; }
+  #shared-image-dup, #shared-image-conflict { font-style: italic; }
+  div.mw-warning-with-logexcerpt { padding: 3px; margin-bottom: 3px; border=
+: 2px solid rgb(47, 111, 171); clear: both; }
+  div.mw-warning-with-logexcerpt ul li { font-size: 90%; }
+  span.mw-revdelundel-link, strong.mw-revdelundel-link { font-size: 90%; }
+  span.mw-revdelundel-hidden, input.mw-revdelundel-hidden { visibility: hid=
+den; }
+  td.mw-revdel-checkbox, th.mw-revdel-checkbox { padding-right: 10px; text-=
+align: center; }
+  a.new { color: rgb(186, 0, 0); }
+  a.feedlink { background-image: linear-gradient(transparent, transparent),=
+ url("data:image/svg+xml,%3C%3Fxml%20version%3D%221.0%22%20encoding%3D%22UT=
+F-8%22%3F%3E%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20w=
+idth%3D%22128%22%20height%3D%22128%22%20viewBox%3D%220%200%20256%20256%22%3=
+E%3Cdefs%3E%3ClinearGradient%20x1%3D%22.085%22%20y1%3D%22.085%22%20x2%3D%22=
+.915%22%20y2%3D%22.915%22%20id%3D%22a%22%3E%3Cstop%20offset%3D%220%22%20sto=
+p-color%3D%22%23E3702D%22%2F%3E%3Cstop%20offset%3D%22.107%22%20stop-color%3=
+D%22%23EA7D31%22%2F%3E%3Cstop%20offset%3D%22.35%22%20stop-color%3D%22%23F69=
+537%22%2F%3E%3Cstop%20offset%3D%22.5%22%20stop-color%3D%22%23FB9E3A%22%2F%3=
+E%3Cstop%20offset%3D%22.702%22%20stop-color%3D%22%23EA7C31%22%2F%3E%3Cstop%=
+20offset%3D%22.887%22%20stop-color%3D%22%23DE642B%22%2F%3E%3Cstop%20offset%=
+3D%221%22%20stop-color%3D%22%23D95B29%22%2F%3E%3C%2FlinearGradient%3E%3C%2F=
+defs%3E%3Crect%20width%3D%22256%22%20height%3D%22256%22%20rx%3D%2255%22%20r=
+y%3D%2255%22%20fill%3D%22%23CC5D15%22%2F%3E%3Crect%20width%3D%22246%22%20he=
+ight%3D%22246%22%20rx%3D%2250%22%20ry%3D%2250%22%20x%3D%225%22%20y%3D%225%2=
+2%20fill%3D%22%23F49C52%22%2F%3E%3Crect%20width%3D%22236%22%20height%3D%222=
+36%22%20rx%3D%2247%22%20ry%3D%2247%22%20x%3D%2210%22%20y%3D%2210%22%20fill%=
+3D%22url%28%23a%29%22%2F%3E%3Ccircle%20cx%3D%2268%22%20cy%3D%22189%22%20r%3=
+D%2224%22%20fill%3D%22%23FFF%22%2F%3E%3Cpath%20d%3D%22M160%20213h-34a82%208=
+2%200%200%200-82-82v-34a116%20116%200%200%201%20116%20116zM184%20213a140%20=
+140%200%200%200-140-140v-35a175%20175%200%200%201%20175%20175z%22%20fill%3D=
+%22%23FFF%22%2F%3E%3C%2Fsvg%3E"); background-position: left center; backgro=
+und-repeat: no-repeat; background-size: 12px 12px; padding-left: 16px; }
+  .plainlinks a.external { background: none !important; padding: 0px !impor=
+tant; }
+  .rtl a.external.free, .rtl a.external.autonumber { direction: ltr; unicod=
+e-bidi: embed; }
+  table.wikitable { margin: 1em 0px; background-color: rgb(249, 249, 249); =
+border: 1px solid rgb(170, 170, 170); border-collapse: collapse; color: bla=
+ck; }
+  table.wikitable > tr > th, table.wikitable > tr > td, table.wikitable > *=
+ > tr > th, table.wikitable > * > tr > td { border: 1px solid rgb(170, 170,=
+ 170); padding: 0.2em 0.4em; }
+  table.wikitable > tr > th, table.wikitable > * > tr > th { background-col=
+or: rgb(242, 242, 242); text-align: center; }
+  table.wikitable > caption { font-weight: bold; }
+  .error, .warning, .success { font-size: larger; }
+  .error { color: rgb(204, 0, 0); }
+  .warning { color: rgb(112, 80, 0); }
+  .success { color: rgb(0, 144, 0); }
+  .errorbox, .warningbox, .successbox { border: 1px solid; padding: 0.5em 1=
+em; margin-bottom: 1em; display: inline-block; zoom: 1; }
+  .errorbox h2, .warningbox h2, .successbox h2 { font-size: 1em; color: inh=
+erit; font-weight: bold; display: inline; margin: 0px 0.5em 0px 0px; border=
+: none; }
+  .errorbox { color: rgb(204, 0, 0); border-color: rgb(250, 197, 197); back=
+ground-color: rgb(250, 227, 227); }
+  .warningbox { color: rgb(112, 80, 0); border-color: rgb(253, 226, 155); b=
+ackground-color: rgb(253, 241, 209); }
+  .successbox { color: rgb(0, 128, 0); border-color: rgb(183, 253, 181); ba=
+ckground-color: rgb(225, 253, 223); }
+  .mw-infobox { border: 2px solid rgb(255, 127, 0); margin: 0.5em; clear: l=
+eft; overflow: hidden; }
+  .mw-infobox-left { margin: 7px; float: left; width: 35px; }
+  .mw-infobox-right { margin: 0.5em 0.5em 0.5em 49px; }
+  .previewnote { color: rgb(204, 0, 0); margin-bottom: 1em; }
+  .previewnote p { text-indent: 3em; margin: 0.8em 0px; }
+  .visualClear { clear: both; }
+  .mw-datatable { border-collapse: collapse; }
+  .mw-datatable, .mw-datatable td, .mw-datatable th { border: 1px solid rgb=
+(170, 170, 170); padding: 0px 0.15em; }
+  .mw-datatable th { background-color: rgb(221, 221, 255); }
+  .mw-datatable td { background-color: rgb(255, 255, 255); }
+  .mw-datatable tr:hover td { background-color: rgb(238, 238, 255); }
+  ul#filetoc { text-align: center; border: 1px solid rgb(170, 170, 170); ba=
+ckground-color: rgb(249, 249, 249); padding: 5px; font-size: 95%; margin-bo=
+ttom: 0.5em; margin-left: 0px; margin-right: 0px; }
+  #filetoc li { display: inline; list-style-type: none; padding-right: 2em;=
+ }
+  table.mw_metadata { font-size: 0.8em; margin-left: 0.5em; margin-bottom: =
+0.5em; width: 400px; }
+  table.mw_metadata caption { font-weight: bold; }
+  table.mw_metadata th { font-weight: normal; }
+  table.mw_metadata td { padding: 0.1em; }
+  table.mw_metadata { border: none; border-collapse: collapse; }
+  table.mw_metadata td, table.mw_metadata th { text-align: center; border: =
+1px solid rgb(170, 170, 170); padding-left: 5px; padding-right: 5px; }
+  table.mw_metadata th { background-color: rgb(249, 249, 249); }
+  table.mw_metadata td { background-color: rgb(252, 252, 252); }
+  table.mw_metadata ul.metadata-langlist { list-style-type: none; list-styl=
+e-image: none; padding-right: 5px; padding-left: 5px; margin: 0px; }
+  .mw-content-ltr ul, .mw-content-rtl .mw-content-ltr ul { margin: 0.3em 0p=
+x 0px 1.6em; padding: 0px; }
+  .mw-content-rtl ul, .mw-content-ltr .mw-content-rtl ul { margin: 0.3em 1.=
+6em 0px 0px; padding: 0px; }
+  .mw-content-ltr ol, .mw-content-rtl .mw-content-ltr ol { margin: 0.3em 0p=
+x 0px 3.2em; padding: 0px; }
+  .mw-content-rtl ol, .mw-content-ltr .mw-content-rtl ol { margin: 0.3em 3.=
+2em 0px 0px; padding: 0px; }
+  .mw-content-ltr dd, .mw-content-rtl .mw-content-ltr dd { margin-left: 1.6=
+em; margin-right: 0px; }
+  .mw-content-rtl dd, .mw-content-ltr .mw-content-rtl dd { margin-right: 1.=
+6em; margin-left: 0px; }
+  li.gallerybox { vertical-align: top; display: inline-block; }
+  ul.gallery, li.gallerybox { zoom: 1; }
+  ul.gallery { margin: 2px; padding: 2px; display: block; }
+  li.gallerycaption { font-weight: bold; text-align: center; display: block=
+; overflow-wrap: break-word; }
+  li.gallerybox div.thumb { text-align: center; border: 1px solid rgb(204, =
+204, 204); background-color: rgb(249, 249, 249); margin: 2px; }
+  li.gallerybox div.thumb img { display: block; margin: 0px auto; }
+  div.gallerytext { overflow: hidden; font-size: 94%; padding: 2px 4px; ove=
+rflow-wrap: break-word; }
+  ul.mw-gallery-nolines li.gallerybox div.thumb { background-color: transpa=
+rent; border: none; }
+  ul.mw-gallery-nolines li.gallerybox div.gallerytext { text-align: center;=
+ }
+  ul.mw-gallery-packed li.gallerybox div.thumb, ul.mw-gallery-packed-overla=
+y li.gallerybox div.thumb, ul.mw-gallery-packed-hover li.gallerybox div.thu=
+mb { background-color: transparent; border: none; }
+  ul.mw-gallery-packed li.gallerybox div.thumb img, ul.mw-gallery-packed-ov=
+erlay li.gallerybox div.thumb img, ul.mw-gallery-packed-hover li.gallerybox=
+ div.thumb img { margin: 0px auto; }
+  ul.mw-gallery-packed-hover li.gallerybox, ul.mw-gallery-packed-overlay li=
+.gallerybox { position: relative; }
+  ul.mw-gallery-packed-hover div.gallerytextwrapper { overflow: hidden; hei=
+ght: 0px; }
+  ul.mw-gallery-packed-hover li.gallerybox:hover div.gallerytextwrapper, ul=
+.mw-gallery-packed-overlay li.gallerybox div.gallerytextwrapper, ul.mw-gall=
+ery-packed-hover li.gallerybox.mw-gallery-focused div.gallerytextwrapper { =
+position: absolute; background: rgba(255, 255, 255, 0.8); padding: 5px 10px=
+; bottom: 0px; left: 0px; height: auto; font-weight: bold; margin: 2px; }
+  ul.mw-gallery-packed-hover, ul.mw-gallery-packed-overlay, ul.mw-gallery-p=
+acked { text-align: center; }
+  .mw-ajax-loader { background-image: url("data:image/gif;base64,R0lGODlhIA=
+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"); background-position: c=
+enter center; background-repeat: no-repeat; padding: 16px; position: relati=
+ve; top: -16px; }
+  .mw-small-spinner { margin-right: 0.6em; background-image: url("data:imag=
+e/gif;base64,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3D=3D"); background-position: cente=
+r center; background-repeat: no-repeat; padding: 10px !important; }
+  h1:lang(anp), h1:lang(as), h1:lang(bh), h1:lang(bho), h1:lang(bn), h1:lan=
+g(gu), h1:lang(hi), h1:lang(kn), h1:lang(ks), h1:lang(ml), h1:lang(mr), h1:=
+lang(my), h1:lang(mai), h1:lang(ne), h1:lang(new), h1:lang(or), h1:lang(pa)=
+, h1:lang(pi), h1:lang(sa), h1:lang(ta), h1:lang(te) { line-height: 1.6em !=
+important; }
+  h2:lang(anp), h3:lang(anp), h4:lang(anp), h5:lang(anp), h6:lang(anp), h2:=
+lang(as), h3:lang(as), h4:lang(as), h5:lang(as), h6:lang(as), h2:lang(bho),=
+ h3:lang(bho), h4:lang(bho), h5:lang(bho), h6:lang(bho), h2:lang(bh), h3:la=
+ng(bh), h4:lang(bh), h5:lang(bh), h6:lang(bh), h2:lang(bn), h3:lang(bn), h4=
+:lang(bn), h5:lang(bn), h6:lang(bn), h2:lang(gu), h3:lang(gu), h4:lang(gu),=
+ h5:lang(gu), h6:lang(gu), h2:lang(hi), h3:lang(hi), h4:lang(hi), h5:lang(h=
+i), h6:lang(hi), h2:lang(kn), h3:lang(kn), h4:lang(kn), h5:lang(kn), h6:lan=
+g(kn), h2:lang(ks), h3:lang(ks), h4:lang(ks), h5:lang(ks), h6:lang(ks), h2:=
+lang(ml), h3:lang(ml), h4:lang(ml), h5:lang(ml), h6:lang(ml), h2:lang(mr), =
+h3:lang(mr), h4:lang(mr), h5:lang(mr), h6:lang(mr), h2:lang(my), h3:lang(my=
+), h4:lang(my), h5:lang(my), h6:lang(my), h2:lang(mai), h3:lang(mai), h4:la=
+ng(mai), h5:lang(mai), h6:lang(mai), h2:lang(ne), h3:lang(ne), h4:lang(ne),=
+ h5:lang(ne), h6:lang(ne), h2:lang(new), h3:lang(new), h4:lang(new), h5:lan=
+g(new), h6:lang(new), h2:lang(or), h3:lang(or), h4:lang(or), h5:lang(or), h=
+6:lang(or), h2:lang(pa), h3:lang(pa), h4:lang(pa), h5:lang(pa), h6:lang(pa)=
+, h2:lang(pi), h3:lang(pi), h4:lang(pi), h5:lang(pi), h6:lang(pi), h2:lang(=
+sa), h3:lang(sa), h4:lang(sa), h5:lang(sa), h6:lang(sa), h2:lang(ta), h3:la=
+ng(ta), h4:lang(ta), h5:lang(ta), h6:lang(ta), h2:lang(te), h3:lang(te), h4=
+:lang(te), h5:lang(te), h6:lang(te) { line-height: 1.2em; }
+  ol:lang(bcc) li, ol:lang(bgn) li, ol:lang(bqi) li, ol:lang(fa) li, ol:lan=
+g(glk) li, ol:lang(kk-arab) li, ol:lang(lrc) li, ol:lang(mzn) li, ol:lang(s=
+dh) li { list-style-type: persian; }
+  ol:lang(ckb) li { list-style-type: arabic-indic; }
+  ol:lang(hi) li, ol:lang(mr) li { list-style-type: devanagari; }
+  ol:lang(as) li, ol:lang(bn) li { list-style-type: bengali; }
+  ol:lang(or) li { list-style-type: oriya; }
+  #toc ul, .toc ul { margin: 0.3em 0px; }
+  .mw-content-ltr .toc ul, .mw-content-ltr #toc ul, .mw-content-rtl .mw-con=
+tent-ltr .toc ul, .mw-content-rtl .mw-content-ltr #toc ul { text-align: lef=
+t; }
+  .mw-content-rtl .toc ul, .mw-content-rtl #toc ul, .mw-content-ltr .mw-con=
+tent-rtl .toc ul, .mw-content-ltr .mw-content-rtl #toc ul { text-align: rig=
+ht; }
+  .mw-content-ltr .toc ul ul, .mw-content-ltr #toc ul ul, .mw-content-rtl .=
+mw-content-ltr .toc ul ul, .mw-content-rtl .mw-content-ltr #toc ul ul { mar=
+gin: 0px 0px 0px 2em; }
+  .mw-content-rtl .toc ul ul, .mw-content-rtl #toc ul ul, .mw-content-ltr .=
+mw-content-rtl .toc ul ul, .mw-content-ltr .mw-content-rtl #toc ul ul { mar=
+gin: 0px 2em 0px 0px; }
+  #toc #toctitle, .toc #toctitle, #toc .toctitle, .toc .toctitle { directio=
+n: ltr; }
+  .mw-help-field-hint { display: none; margin-left: 2px; margin-bottom: -8p=
+x; padding: 0px 0px 0px 15px; background-image: url("data:image/gif;base64,=
+R0lGODlhCwALALMAAP///01NTZOTk1lZWefn57i4uJSUlPPz82VlZdDQ0HFxcaysrNvb28TExAA=
+AAAAAACH5BAAAAAAALAAAAAALAAsAAAQrUIRJqQQ455nNNBgHJANBDAwgZsVwqIG2IEQYYwXy2l=
+q/Kg3NqqeSVCqCCAA7"); background-position: left center; background-repeat: =
+no-repeat; cursor: pointer; font-size: 0.8em; text-decoration: underline; c=
+olor: rgb(6, 69, 173); }
+  .mw-help-field-hint:hover { background-image: url("data:image/gif;base64,=
+R0lGODlhCwALALMAAAtop+7z+GCWwpW51oStz8rb6yZzrafF3bnR5Nzn8QBcoD91oABQmf///wA=
+AAAAAACH/C1hNUCBEYXRhWE1QPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSH=
+pyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4b=
+XB0az0iQWRvYmUgWE1QIENvcmUgNS4wLWMwNjAgNjEuMTM0Nzc3LCAyMDEwLzAyLzEyLTE3OjMy=
+OjAwICAgICAgICAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTk=
+vMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bW=
+xuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9I=
+mh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtbG5zOnht=
+cD0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wLyIgeG1wTU06T3JpZ2luYWxEb2N1bWVudEl=
+EPSJ4bXAuZGlkOjAyODAxMTc0MDcyMDY4MTE5NkQ0QUQzRjI0NzRCNUQwIiB4bXBNTTpEb2N1bW=
+VudElEPSJ4bXAuZGlkOjJBN0FFQTQwQjlGQzExREY5RDlBQTRBODQyMkJCMkFDIiB4bXBNTTpJb=
+nN0YW5jZUlEPSJ4bXAuaWlkOjJBN0FFQTNGQjlGQzExREY5RDlBQTRBODQyMkJCMkFDIiB4bXA6=
+Q3JlYXRvclRvb2w9IkFkb2JlIFBob3Rvc2hvcCBDUzUgTWFjaW50b3NoIj4gPHhtcE1NOkRlcml=
+2ZWRGcm9tIHN0UmVmOmluc3RhbmNlSUQ9InhtcC5paWQ6RkM3RjExNzQwNzIwNjgxMTk1RkVBQ0=
+ZBOEQxNTU5MkUiIHN0UmVmOmRvY3VtZW50SUQ9InhtcC5kaWQ6MDI4MDExNzQwNzIwNjgxMTk2R=
+DRBRDNGMjQ3NEI1RDAiLz4gPC9yZGY6RGVzY3JpcHRpb24+IDwvcmRmOlJERj4gPC94OnhtcG1l=
+dGE+IDw/eHBhY2tldCBlbmQ9InIiPz4B//79/Pv6+fj39vX08/Lx8O/u7ezr6uno5+bl5OPi4eD=
+f3t3c29rZ2NfW1dTT0tHQz87NzMvKycjHxsXEw8LBwL++vby7urm4t7a1tLOysbCvrq2sq6qpqK=
+empaSjoqGgn56dnJuamZiXlpWUk5KRkI+OjYyLiomIh4aFhIOCgYB/fn18e3p5eHd2dXRzcnFwb=
+25tbGtqaWhnZmVkY2JhYF9eXVxbWllYV1ZVVFNSUVBPTk1MS0pJSEdGRURDQkFAPz49PDs6OTg3=
+NjU0MzIxMC8uLSwrKikoJyYlJCMiISAfHh0cGxoZGBcWFRQTEhEQDw4NDAsKCQgHBgUEAwIBAAA=
+h+QQAAAAAACwAAAAACwALAAAEK3CxSalsOOeZxRQY1yBKkihFI2aDEqiMRgBJGGMD8NpavxoHza=
+qnklQqiwgAOw=3D=3D"); }
+  .mw-help-field-data { display: block; background-color: rgb(214, 243, 255=
+); padding: 5px 8px 4px; border: 1px solid rgb(93, 201, 244); margin-left: =
+20px; }
+  #mw-clearyourcache, #mw-sitecsspreview, #mw-sitejspreview, #mw-usercsspre=
+view, #mw-userjspreview { direction: ltr; unicode-bidi: embed; }
+  .diff-currentversion-title, .diff { direction: ltr; unicode-bidi: embed; =
+}
+  .diff-contentalign-right td { direction: rtl; unicode-bidi: embed; }
+  .diff-contentalign-left td { direction: ltr; unicode-bidi: embed; }
+  .diff-multi, .diff-otitle, .diff-ntitle, .diff-lineno { direction: ltr !i=
+mportant; unicode-bidi: embed; }
+  #mw-revision-info, #mw-revision-info-current, #mw-revision-nav { directio=
+n: ltr; display: inline; }
+  div.tright, div.floatright, table.floatright { clear: right; float: right=
+; }
+  div.tleft, div.floatleft, table.floatleft { float: left; clear: left; }
+  div.floatright, table.floatright, div.floatleft, table.floatleft { positi=
+on: relative; }
+  #mw-credits a { unicode-bidi: embed; }
+  .mw-jump, #jump-to-nav { overflow: hidden; height: 0px; zoom: 1; }
+  .printfooter { display: none; }
+  .xdebug-error { position: absolute; z-index: 99; }
+  .mw-editsection, .toctoggle, .tochidden, #jump-to-nav { user-select: none=
+; }
+  .mw-editsection, .mw-editsection-like { font-size: small; font-weight: no=
+rmal; margin-left: 1em; vertical-align: baseline; line-height: 1em; display=
+: inline-block; }
+  .mw-content-ltr .mw-editsection, .mw-content-rtl .mw-content-ltr .mw-edit=
+section { margin-left: 1em; }
+  .mw-content-rtl .mw-editsection, .mw-content-ltr .mw-content-rtl .mw-edit=
+section { margin-right: 1em; }
+  sup, sub { line-height: 1; }
+}
+
+.mw-headline-anchor { display: none; }
+
+@media screen {
+  .mw-headline-anchor { margin-left: -16px; width: 16px; }
+  .mw-content-ltr .mw-headline-anchor, .mw-content-rtl .mw-content-ltr .mw-=
+headline-anchor { margin-left: -16px; margin-right: 0px; }
+  .mw-content-rtl .mw-headline-anchor, .mw-content-ltr .mw-content-rtl .mw-=
+headline-anchor { margin-left: 0px; margin-right: -16px; }
+}
+
+@media screen and (min-width: 982px) {
+  .mw-headline-anchor { margin-left: -20px; width: 20px; }
+  .mw-content-ltr .mw-headline-anchor, .mw-content-rtl .mw-content-ltr .mw-=
+headline-anchor { margin-left: -20px; margin-right: 0px; }
+  .mw-content-rtl .mw-headline-anchor, .mw-content-ltr .mw-content-rtl .mw-=
+headline-anchor { margin-left: 0px; margin-right: -20px; }
+}
+
+@media screen {
+  a { text-decoration: none; color: rgb(6, 69, 173); background: none; }
+  a:visited { color: rgb(11, 0, 128); }
+  a:active { color: rgb(250, 167, 0); }
+  a:hover, a:focus { text-decoration: underline; }
+  a.stub { color: rgb(119, 34, 51); }
+  a.new, #p-personal a.new { color: rgb(186, 0, 0); }
+  a.new:visited, #p-personal a.new:visited { color: rgb(165, 88, 88); }
+  .mw-body a.extiw, .mw-body a.extiw:active { color: rgb(51, 102, 187); }
+  .mw-body a.extiw:visited { color: rgb(102, 51, 102); }
+  .mw-body a.extiw:active { color: rgb(187, 102, 51); }
+  .mw-body a.external { color: rgb(51, 102, 187); }
+  .mw-body a.external:visited { color: rgb(102, 51, 102); }
+  .mw-body a.external:active { color: rgb(187, 102, 51); }
+  img { border: none; vertical-align: middle; }
+  hr { height: 1px; color: rgb(170, 170, 170); background-color: rgb(170, 1=
+70, 170); border: 0px; margin: 0.2em 0px; }
+  h1, h2, h3, h4, h5, h6 { color: black; background: none; font-weight: nor=
+mal; margin: 0px; overflow: hidden; padding-top: 0.5em; padding-bottom: 0.1=
+7em; border-bottom: 1px solid rgb(170, 170, 170); }
+  h1 { font-size: 188%; }
+  h2 { font-size: 150%; }
+  h3, h4, h5, h6 { border-bottom: none; font-weight: bold; }
+  h3 { font-size: 128%; }
+  h4 { font-size: 116%; }
+  h5 { font-size: 108%; }
+  h6 { font-size: 100%; }
+  h1, h2 { margin-bottom: 0.6em; }
+  h3, h4, h5 { margin-bottom: 0.3em; }
+  p { margin: 0.4em 0px 0.5em; }
+  p img { margin: 0px; }
+  ul { list-style-type: square; margin: 0.3em 0px 0px 1.6em; padding: 0px; =
+}
+  ol { margin: 0.3em 0px 0px 3.2em; padding: 0px; list-style-image: none; }
+  li { margin-bottom: 0.1em; }
+  dt { font-weight: bold; margin-bottom: 0.1em; }
+  dl { margin-top: 0.2em; margin-bottom: 0.5em; }
+  dd { margin-left: 1.6em; margin-bottom: 0.1em; }
+  pre, code, tt, kbd, samp, .mw-code { font-family: monospace, Courier; }
+  code { color: black; background-color: rgb(249, 249, 249); border: 1px so=
+lid rgb(221, 221, 221); border-radius: 2px; padding: 1px 4px; }
+  pre, .mw-code { color: black; background-color: rgb(249, 249, 249); borde=
+r: 1px solid rgb(221, 221, 221); padding: 1em; }
+  table { font-size: 100%; }
+  fieldset { border: 1px solid rgb(47, 111, 171); margin: 1em 0px; padding:=
+ 0px 1em 1em; }
+  fieldset.nested { margin: 0px 0px 0.5em; padding: 0px 0.5em 0.5em; }
+  legend { padding: 0.5em; font-size: 95%; }
+  form { border: none; margin: 0px; }
+  textarea { width: 100%; padding: 0.1em; display: block; box-sizing: borde=
+r-box; }
+  select { vertical-align: top; }
+  .center { width: 100%; text-align: center; }
+  .center * { margin-left: auto; margin-right: auto; }
+  .small { font-size: 94%; }
+  table.small { font-size: 100%; }
+  #toc, .toc, .mw-warning, .toccolours { border: 1px solid rgb(170, 170, 17=
+0); background-color: rgb(249, 249, 249); padding: 5px; font-size: 95%; }
+  #toc, .toc { display: table; zoom: 1; padding: 7px; }
+  table#toc, table.toc { border-collapse: collapse; }
+  table#toc td, table.toc td { padding: 0px; }
+  #toc h2, .toc h2 { display: inline; border: none; padding: 0px; font-size=
+: 100%; font-weight: bold; }
+  #toc #toctitle, .toc #toctitle, #toc .toctitle, .toc .toctitle { text-ali=
+gn: center; }
+  #toc ul, .toc ul { list-style-type: none; list-style-image: none; margin-=
+left: 0px; padding: 0px; text-align: left; }
+  #toc ul ul, .toc ul ul { margin: 0px 0px 0px 2em; }
+  #toc .toctoggle, .toc .toctoggle { font-size: 94%; }
+  .mw-warning { margin-left: 50px; margin-right: 50px; text-align: center; =
+}
+  div.floatright, table.floatright { margin: 0px 0px 0.5em 0.5em; border: 0=
+px; }
+  div.floatright p { font-style: italic; }
+  div.floatleft, table.floatleft { margin: 0px 0.5em 0.5em 0px; border: 0px=
+; }
+  div.floatleft p { font-style: italic; }
+  div.thumb { margin-bottom: 0.5em; width: auto; background-color: transpar=
+ent; }
+  div.thumbinner { border: 1px solid rgb(204, 204, 204); padding: 3px; back=
+ground-color: rgb(249, 249, 249); font-size: 94%; text-align: center; overf=
+low: hidden; }
+  html .thumbimage { border: 1px solid rgb(204, 204, 204); }
+  html .thumbcaption { border: none; line-height: 1.4em; padding: 3px; font=
+-size: 94%; text-align: left; }
+  div.magnify { float: right; margin-left: 3px; }
+  div.magnify a { display: block; text-indent: 15px; white-space: nowrap; o=
+verflow: hidden; width: 15px; height: 11px; background-image: linear-gradie=
+nt(transparent, transparent), url("data:image/svg+xml,%3C%3Fxml%20version%3=
+D%221.0%22%20encoding%3D%22UTF-8%22%20standalone%3D%22no%22%3F%3E%0A%3Csvg%=
+20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2=
+011%2015%22%20width%3D%2215%22%20height%3D%2211%22%3E%0A%20%20%20%20%3Cg%20=
+id%3D%22magnify-clip%22%20fill%3D%22%23fff%22%20stroke%3D%22%23000%22%3E%0A=
+%20%20%20%20%20%20%20%20%3Cpath%20id%3D%22bigbox%22%20d%3D%22M1.509%201.865=
+h10.99v7.919h-10.99z%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Cpath%20id%3D%22s=
+mallbox%22%20d%3D%22M-1.499%206.868h5.943v4.904h-5.943z%22%2F%3E%0A%20%20%2=
+0%20%3C%2Fg%3E%0A%3C%2Fsvg%3E%0A"); user-select: none; }
+  img.thumbborder { border: 1px solid rgb(221, 221, 221); }
+  .mw-content-ltr .thumbcaption { text-align: left; }
+  .mw-content-ltr .magnify { float: right; margin-left: 3px; margin-right: =
+0px; }
+  .mw-content-ltr div.magnify a { background-image: linear-gradient(transpa=
+rent, transparent), url("data:image/svg+xml,%3C%3Fxml%20version%3D%221.0%22=
+%20encoding%3D%22UTF-8%22%20standalone%3D%22no%22%3F%3E%0A%3Csvg%20xmlns%3D=
+%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2011%2015%2=
+2%20width%3D%2215%22%20height%3D%2211%22%3E%0A%20%20%20%20%3Cg%20id%3D%22ma=
+gnify-clip%22%20fill%3D%22%23fff%22%20stroke%3D%22%23000%22%3E%0A%20%20%20%=
+20%20%20%20%20%3Cpath%20id%3D%22bigbox%22%20d%3D%22M1.509%201.865h10.99v7.9=
+19h-10.99z%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Cpath%20id%3D%22smallbox%22=
+%20d%3D%22M-1.499%206.868h5.943v4.904h-5.943z%22%2F%3E%0A%20%20%20%20%3C%2F=
+g%3E%0A%3C%2Fsvg%3E%0A"); }
+  .mw-content-rtl .thumbcaption { text-align: right; }
+  .mw-content-rtl .magnify { float: left; margin-left: 0px; margin-right: 3=
+px; }
+  .mw-content-rtl div.magnify a { background-image: linear-gradient(transpa=
+rent, transparent), url("data:image/svg+xml,%3C%3Fxml%20version%3D%221.0%22=
+%20encoding%3D%22UTF-8%22%20standalone%3D%22no%22%3F%3E%0A%3Csvg%20xmlns%3D=
+%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2011%2015%2=
+2%20width%3D%2215%22%20height%3D%2211%22%3E%0A%20%20%20%20%3Cg%20id%3D%22ma=
+gnify-clip%22%20fill%3D%22%23fff%22%20stroke%3D%22%23000%22%3E%0A%20%20%20%=
+20%20%20%20%20%3Cpath%20id%3D%22bigbox%22%20d%3D%22M9.491%201.865h-10.99v7.=
+919h10.99z%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Cpath%20id%3D%22smallbox%22=
+%20d%3D%22M12.499%206.868h-5.943v4.904h5.943z%22%2F%3E%0A%20%20%20%20%3C%2F=
+g%3E%0A%3C%2Fsvg%3E%0A"); }
+  div.tright { margin: 0.5em 0px 1.3em 1.4em; }
+  div.tleft { margin: 0.5em 1.4em 1.3em 0px; }
+  .catlinks { border: 1px solid rgb(170, 170, 170); background-color: rgb(2=
+49, 249, 249); padding: 5px; margin-top: 1em; clear: both; }
+  .editOptions { background-color: rgb(240, 240, 240); border-right: 1px so=
+lid silver; border-bottom: 1px solid silver; border-left: 1px solid silver;=
+ border-image: initial; border-top: none; padding: 1em 1em 1.5em; margin-bo=
+ttom: 2em; }
+  .usermessage { background-color: rgb(255, 206, 123); border: 1px solid rg=
+b(255, 165, 0); color: black; font-weight: bold; margin: 2em 0px 1em; paddi=
+ng: 0.5em 1em; vertical-align: middle; }
+  #siteNotice { position: relative; text-align: center; margin: 0px; }
+  #localNotice { margin-bottom: 0.9em; }
+  .firstHeading { margin-bottom: 0.1em; line-height: 1.2em; padding-bottom:=
+ 0px; }
+  #siteSub { display: none; }
+  #jump-to-nav { margin-top: -1.4em; margin-bottom: 1.4em; }
+  #contentSub, #contentSub2 { font-size: 84%; line-height: 1.2em; margin: 0=
+px 0px 1.4em 1em; color: rgb(84, 84, 84); width: auto; }
+  span.subpages { display: block; }
+}
+
+.mw-wiki-logo { background-image: url("/wiki/fa_logo.png"); }
+
+.column-break-inside-avoid { break-inside: avoid-column; }
+
+.mw-ui-button { font-family: inherit; font-size: 1em; display: inline-block=
+; padding: 0.5em 1em; margin: 0px; box-sizing: border-box; appearance: none=
+; zoom: 1; background: rgb(255, 255, 255); color: rgb(85, 85, 85); border: =
+1px solid rgb(204, 204, 204); border-radius: 2px; min-width: 4em; vertical-=
+align: middle; text-align: center; font-weight: bold; cursor: pointer; tran=
+sition: background 0.1s ease-in-out 0s, color 0.1s ease-in-out 0s, box-shad=
+ow 0.1s ease-in-out 0s; }
+
+.mw-ui-button:hover { box-shadow: rgba(0, 0, 0, 0.1) 0px 1px, rgba(0, 0, 0,=
+ 0.2) 0px -3px inset; border-bottom-color: rgb(204, 204, 204); }
+
+.mw-ui-button:focus { border-color: rgba(0, 0, 0, 0.2); box-shadow: rgba(0,=
+ 0, 0, 0.2) 0px 0px 0px 1px inset; outline: none; }
+
+.mw-ui-button:active, .mw-ui-button.mw-ui-checked { background: rgb(204, 20=
+4, 204); box-shadow: none; }
+
+.mw-ui-button:hover, .mw-ui-button:active, .mw-ui-button:visited { color: r=
+gb(85, 85, 85); }
+
+.mw-ui-button:disabled { color: rgb(204, 204, 204); }
+
+.mw-ui-button:disabled:hover, .mw-ui-button:disabled:active { background: r=
+gb(255, 255, 255); box-shadow: none; }
+
+.mw-ui-button:disabled { text-shadow: none; cursor: default; }
+
+.mw-ui-button.mw-ui-big { font-size: 1.3em; }
+
+.mw-ui-button.mw-ui-block { display: block; width: 100%; }
+
+.mw-ui-button.mw-ui-progressive, .mw-ui-button.mw-ui-primary { background: =
+rgb(52, 123, 255); color: rgb(255, 255, 255); border: 1px solid rgb(52, 123=
+, 255); text-shadow: rgba(0, 0, 0, 0.1) 0px 1px; }
+
+.mw-ui-button.mw-ui-progressive:hover, .mw-ui-button.mw-ui-primary:hover { =
+box-shadow: rgba(0, 0, 0, 0.1) 0px 1px, rgba(0, 0, 0, 0.2) 0px -3px inset; =
+border-bottom-color: rgb(42, 98, 204); }
+
+.mw-ui-button.mw-ui-progressive:focus, .mw-ui-button.mw-ui-primary:focus { =
+border-color: rgba(0, 0, 0, 0.2); box-shadow: rgba(0, 0, 0, 0.2) 0px 0px 0p=
+x 1px inset; outline: none; }
+
+.mw-ui-button.mw-ui-progressive:active, .mw-ui-button.mw-ui-progressive.mw-=
+ui-checked, .mw-ui-button.mw-ui-primary:active, .mw-ui-button.mw-ui-primary=
+.mw-ui-checked { background: rgb(42, 98, 204); box-shadow: none; }
+
+.mw-ui-button.mw-ui-progressive:disabled, .mw-ui-button.mw-ui-primary:disab=
+led { background: rgb(221, 221, 221); border-color: rgb(221, 221, 221); }
+
+.mw-ui-button.mw-ui-progressive:disabled:hover, .mw-ui-button.mw-ui-progres=
+sive:disabled:active, .mw-ui-button.mw-ui-progressive:disabled.mw-ui-checke=
+d, .mw-ui-button.mw-ui-primary:disabled:hover, .mw-ui-button.mw-ui-primary:=
+disabled:active, .mw-ui-button.mw-ui-primary:disabled.mw-ui-checked { box-s=
+hadow: none; }
+
+.mw-ui-button.mw-ui-progressive.mw-ui-quiet, .mw-ui-button.mw-ui-primary.mw=
+-ui-quiet { color: rgb(85, 85, 85); }
+
+.mw-ui-button.mw-ui-progressive.mw-ui-quiet:hover, .mw-ui-button.mw-ui-prog=
+ressive.mw-ui-quiet:focus, .mw-ui-button.mw-ui-primary.mw-ui-quiet:hover, .=
+mw-ui-button.mw-ui-primary.mw-ui-quiet:focus { color: rgb(52, 123, 255); }
+
+.mw-ui-button.mw-ui-progressive.mw-ui-quiet:active, .mw-ui-button.mw-ui-pro=
+gressive.mw-ui-quiet.mw-ui-checked, .mw-ui-button.mw-ui-primary.mw-ui-quiet=
+:active, .mw-ui-button.mw-ui-primary.mw-ui-quiet.mw-ui-checked { color: rgb=
+(42, 98, 204); }
+
+.mw-ui-button.mw-ui-progressive.mw-ui-quiet:disabled, .mw-ui-button.mw-ui-p=
+rimary.mw-ui-quiet:disabled { color: rgb(204, 204, 204); }
+
+.mw-ui-button.mw-ui-constructive { background: rgb(0, 175, 137); color: rgb=
+(255, 255, 255); border: 1px solid rgb(0, 175, 137); text-shadow: rgba(0, 0=
+, 0, 0.1) 0px 1px; }
+
+.mw-ui-button.mw-ui-constructive:hover { box-shadow: rgba(0, 0, 0, 0.1) 0px=
+ 1px, rgba(0, 0, 0, 0.2) 0px -3px inset; border-bottom-color: rgb(0, 140, 1=
+10); }
+
+.mw-ui-button.mw-ui-constructive:focus { border-color: rgba(0, 0, 0, 0.2); =
+box-shadow: rgba(0, 0, 0, 0.2) 0px 0px 0px 1px inset; outline: none; }
+
+.mw-ui-button.mw-ui-constructive:active, .mw-ui-button.mw-ui-constructive.m=
+w-ui-checked { background: rgb(0, 140, 110); box-shadow: none; }
+
+.mw-ui-button.mw-ui-constructive:disabled { background: rgb(221, 221, 221);=
+ border-color: rgb(221, 221, 221); }
+
+.mw-ui-button.mw-ui-constructive:disabled:hover, .mw-ui-button.mw-ui-constr=
+uctive:disabled:active, .mw-ui-button.mw-ui-constructive:disabled.mw-ui-che=
+cked { box-shadow: none; }
+
+.mw-ui-button.mw-ui-constructive.mw-ui-quiet { color: rgb(85, 85, 85); }
+
+.mw-ui-button.mw-ui-constructive.mw-ui-quiet:hover, .mw-ui-button.mw-ui-con=
+structive.mw-ui-quiet:focus { color: rgb(0, 175, 137); }
+
+.mw-ui-button.mw-ui-constructive.mw-ui-quiet:active, .mw-ui-button.mw-ui-co=
+nstructive.mw-ui-quiet.mw-ui-checked { color: rgb(0, 140, 110); }
+
+.mw-ui-button.mw-ui-constructive.mw-ui-quiet:disabled { color: rgb(204, 204=
+, 204); }
+
+.mw-ui-button.mw-ui-destructive { background: rgb(209, 29, 19); color: rgb(=
+255, 255, 255); border: 1px solid rgb(209, 29, 19); text-shadow: rgba(0, 0,=
+ 0, 0.1) 0px 1px; }
+
+.mw-ui-button.mw-ui-destructive:hover { box-shadow: rgba(0, 0, 0, 0.1) 0px =
+1px, rgba(0, 0, 0, 0.2) 0px -3px inset; border-bottom-color: rgb(167, 23, 1=
+5); }
+
+.mw-ui-button.mw-ui-destructive:focus { border-color: rgba(0, 0, 0, 0.2); b=
+ox-shadow: rgba(0, 0, 0, 0.2) 0px 0px 0px 1px inset; outline: none; }
+
+.mw-ui-button.mw-ui-destructive:active, .mw-ui-button.mw-ui-destructive.mw-=
+ui-checked { background: rgb(167, 23, 15); box-shadow: none; }
+
+.mw-ui-button.mw-ui-destructive:disabled { background: rgb(221, 221, 221); =
+border-color: rgb(221, 221, 221); }
+
+.mw-ui-button.mw-ui-destructive:disabled:hover, .mw-ui-button.mw-ui-destruc=
+tive:disabled:active, .mw-ui-button.mw-ui-destructive:disabled.mw-ui-checke=
+d { box-shadow: none; }
+
+.mw-ui-button.mw-ui-destructive.mw-ui-quiet { color: rgb(85, 85, 85); }
+
+.mw-ui-button.mw-ui-destructive.mw-ui-quiet:hover, .mw-ui-button.mw-ui-dest=
+ructive.mw-ui-quiet:focus { color: rgb(209, 29, 19); }
+
+.mw-ui-button.mw-ui-destructive.mw-ui-quiet:active, .mw-ui-button.mw-ui-des=
+tructive.mw-ui-quiet.mw-ui-checked { color: rgb(167, 23, 15); }
+
+.mw-ui-button.mw-ui-destructive.mw-ui-quiet:disabled { color: rgb(204, 204,=
+ 204); }
+
+.mw-ui-button.mw-ui-quiet { background: transparent; border: none; text-sha=
+dow: none; color: rgb(85, 85, 85); }
+
+.mw-ui-button.mw-ui-quiet:hover, .mw-ui-button.mw-ui-quiet:focus { color: r=
+gb(85, 85, 85); }
+
+.mw-ui-button.mw-ui-quiet:active, .mw-ui-button.mw-ui-quiet.mw-ui-checked {=
+ color: rgb(68, 68, 68); }
+
+.mw-ui-button.mw-ui-quiet:disabled { color: rgb(204, 204, 204); }
+
+.mw-ui-button.mw-ui-quiet:hover, .mw-ui-button.mw-ui-quiet:focus { box-shad=
+ow: none; }
+
+.mw-ui-button.mw-ui-quiet:active, .mw-ui-button.mw-ui-quiet:disabled { back=
+ground: transparent; }
+
+a.mw-ui-button { text-decoration: none; }
+
+a.mw-ui-button:hover, a.mw-ui-button:focus { text-decoration: none; }
+
+.mw-ui-button-group > * { min-width: 48px; border-radius: 0px; float: left;=
+ }
+
+.mw-ui-button-group > :first-child { border-top-left-radius: 2px; border-bo=
+ttom-left-radius: 2px; }
+
+.mw-ui-button-group > :not(:first-child) { border-left: none; }
+
+.mw-ui-button-group > :last-child { border-top-right-radius: 2px; border-bo=
+ttom-right-radius: 2px; }
+
+@media screen {
+  .column-break-inside-avoid { break-inside: avoid-column; }
+  html { font-size: 100%; }
+  html, body { height: 100%; margin: 0px; padding: 0px; font-family: sans-s=
+erif; }
+  body { background-color: rgb(246, 246, 246); }
+  .mw-body { margin-left: 10em; padding: 1em; border-width: 1px 0px 1px 1px=
+; border-style: solid; border-color: rgb(167, 215, 249); border-image: init=
+ial; margin-top: -1px; background-color: rgb(255, 255, 255); color: rgb(37,=
+ 37, 37); direction: ltr; }
+  .mw-body .mw-editsection, .mw-body .mw-editsection-like { font-family: sa=
+ns-serif; }
+  .mw-body p { line-height: inherit; margin: 0.5em 0px; }
+  .mw-body h1, .mw-body h2 { font-family: "Linux Libertine", Georgia, Times=
+, serif; line-height: 1.3; margin-bottom: 0.25em; padding: 0px; }
+  .mw-body h1 { font-size: 1.8em; }
+  .mw-body h2 { font-size: 1.5em; margin-top: 1em; }
+  .mw-body h3, .mw-body h4, .mw-body h5, .mw-body h6 { line-height: 1.6; ma=
+rgin-top: 0.3em; margin-bottom: 0px; padding-bottom: 0px; }
+  .mw-body h3 { font-size: 1.17em; }
+  .mw-body h3, .mw-body h4 { font-weight: bold; }
+  .mw-body h4, .mw-body h5, .mw-body h6 { font-size: 100%; }
+  .mw-body #toc h2, .mw-body .toc h2 { font-size: 100%; font-family: sans-s=
+erif; }
+  .mw-body .firstHeading { overflow: visible; }
+  .mw-body .mw-indicators { float: right; line-height: 1.6; font-size: 0.87=
+5em; position: relative; z-index: 1; }
+  .mw-body .mw-indicator { display: inline-block; zoom: 1; }
+  div.emptyPortlet { display: none; }
+  ul { list-style-type: disc; list-style-image: url("data:image/svg+xml,%3C=
+%3Fxml%20version%3D%221.0%22%20encoding%3D%22UTF-8%22%3F%3E%0A%3Csvg%20xmln=
+s%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20version%3D%221.1%22%20widt=
+h%3D%225%22%20height%3D%2213%22%3E%0A%3Ccircle%20cx%3D%222.5%22%20cy%3D%229=
+.5%22%20r%3D%222.5%22%20fill%3D%22%2300528c%22%2F%3E%0A%3C%2Fsvg%3E%0A"); }
+  pre, .mw-code { line-height: 1.3em; }
+  #siteNotice { font-size: 0.8em; }
+  .redirectText { font-size: 140%; }
+  .mw-body-content { position: relative; line-height: 1.6; font-size: 0.875=
+em; z-index: 0; }
+  #p-personal { position: absolute; top: 0.33em; right: 0.75em; z-index: 10=
+0; }
+  #p-personal h3 { display: none; }
+  #p-personal ul { list-style-type: none; list-style-image: none; margin: 0=
+px; padding-left: 10em; }
+  #p-personal li { line-height: 1.125em; float: left; margin-left: 0.75em; =
+margin-top: 0.5em; font-size: 0.75em; white-space: nowrap; }
+  #pt-userpage, #pt-anonuserpage { background-position: left top; backgroun=
+d-repeat: no-repeat; background-image: linear-gradient(transparent, transpa=
+rent), url("data:image/svg+xml,%3C%3Fxml%20version%3D%221.0%22%20encoding%3=
+D%22utf-8%22%3F%3E%0A%3C%21DOCTYPE%20svg%20PUBLIC%20%22-%2F%2FW3C%2F%2FDTD%=
+20SVG%201.1%2F%2FEN%22%20%22http%3A%2F%2Fwww.w3.org%2FGraphics%2FSVG%2F1.1%=
+2FDTD%2Fsvg11.dtd%22%3E%0A%3Csvg%20version%3D%221.1%22%20id%3D%22Layer_1%22=
+%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20xmlns%3Axlink%3D%22=
+http%3A%2F%2Fwww.w3.org%2F1999%2Fxlink%22%20x%3D%220px%22%20y%3D%220px%22%0=
+A%09%20width%3D%2212px%22%20height%3D%2213.836px%22%20viewBox%3D%220%200%20=
+12%2013.836%22%20enable-background%3D%22new%200%200%2012%2013.836%22%20xml%=
+3Aspace%3D%22preserve%22%3E%0A%3Cpath%20fill%3D%22%23777777%22%20d%3D%22M1.=
+938%2C6.656c-1.32%2C1.485-1.47%2C3.15-0.97%2C4.25c0.323%2C0.707%2C0.78%2C1.=
+127%2C1.313%2C1.375%0A%09c0.496%2C0.229%2C1.074%2C0.273%2C1.658%2C0.282c0.0=
+23%2C0%2C0.04%2C0.03%2C0.062%2C0.03h4.187c0.61%2C0%2C1.225-0.125%2C1.75-0.4=
+05%0A%09c0.527-0.28%2C0.961-0.718%2C1.188-1.376c0.335-0.964%2C0.175-2.529-1=
+.094-4.03C9.094%2C7.954%2C7.68%2C8.719%2C6.065%2C8.719%0A%09c-1.677%2C0-3.1=
+82-0.812-4.125-2.063H1.938z%22%2F%3E%0A%3Cpath%20fill%3D%22%23777777%22%20d=
+%3D%22M6.063%2C0c-1.89%2C0-3.595%2C1.674-3.594%2C3.563C2.467%2C5.45%2C4.173=
+%2C7.155%2C6.06%2C7.155%0A%09c1.89%2C0%2C3.564-1.705%2C3.563-3.593C9.625%2C=
+1.673%2C7.95%2C0%2C6.063%2C0L6.063%2C0z%22%2F%3E%0A%3C%2Fsvg%3E%0A"); paddi=
+ng-left: 15px !important; }
+  #p-search { float: left; margin-right: 0.5em; margin-left: 0.5em; }
+  #p-search h3 { display: none; }
+  #p-search form, #p-search input { margin: 0.4em 0px 0px; }
+  div#simpleSearch { display: block; width: 12.6em; padding-right: 1.4em; h=
+eight: 1.4em; margin-top: 0.65em; position: relative; min-height: 1px; bord=
+er: 1px solid rgb(170, 170, 170); color: black; background-color: white; ba=
+ckground-image: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAAQ=
+CAIAAABY/YLgAAAAJUlEQVQIHQXBsQEAAAjDoND/73UWdnerhmHVsDQZJrNWVg3Dqge6bgMe6be=
+jNAAAAABJRU5ErkJggg=3D=3D"); background-position: left top; background-repe=
+at: repeat-x; }
+  div#simpleSearch input { margin: 0px; padding: 0px; border: 0px; backgrou=
+nd-color: transparent; color: black; }
+  div#simpleSearch #searchInput { width: 100%; padding: 0.2em 0px 0.2em 0.2=
+em; font-size: 13px; direction: ltr; appearance: textfield; }
+  div#simpleSearch #searchInput:focus { outline: none; }
+  div#simpleSearch #searchInput.placeholder { color: rgb(153, 153, 153); }
+  div#simpleSearch #searchInput::-webkit-search-decoration, div#simpleSearc=
+h #searchInput::-webkit-search-cancel-button, div#simpleSearch #searchInput=
+::-webkit-search-results-button, div#simpleSearch #searchInput::-webkit-sea=
+rch-results-decoration { appearance: textfield; }
+  div#simpleSearch #searchButton, div#simpleSearch #mw-searchButton { posit=
+ion: absolute; top: 0px; right: 0px; width: 1.65em; height: 100%; cursor: p=
+ointer; text-indent: -99999px; line-height: 1; direction: ltr; white-space:=
+ nowrap; overflow: hidden; background-image: linear-gradient(transparent, t=
+ransparent), url("data:image/svg+xml,%3C%3Fxml%20version%3D%221.0%22%20enco=
+ding%3D%22UTF-8%22%3F%3E%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%=
+2Fsvg%22%20width%3D%2212%22%20height%3D%2213%22%3E%3Cg%20stroke-width%3D%22=
+2%22%20stroke%3D%22%236c6c6c%22%20fill%3D%22none%22%3E%3Cpath%20d%3D%22M11.=
+29%2011.71l-4-4%22%2F%3E%3Ccircle%20cx%3D%225%22%20cy%3D%225%22%20r%3D%224%=
+22%2F%3E%3C%2Fg%3E%3C%2Fsvg%3E"); background-position: center center; backg=
+round-repeat: no-repeat; }
+  div#simpleSearch #mw-searchButton { z-index: 1; }
+  div.vectorTabs h3 { display: none; }
+  div.vectorTabs { float: left; height: 2.5em; background-image: url("data:=
+image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAAuCAIAAABmjeQ9AAAARElEQVR42m=
+VO2wrAUAhy/f8fz+niVMTYQ3hLKkgGgN/IPvgIhUYYV/qogdP75J01V+JwrKZr/5YPcnzN3e6t7=
+l+2K+EFX91B1daOi7sAAAAASUVORK5CYII=3D"); background-position: left bottom; =
+background-repeat: no-repeat; padding-left: 1px; }
+  div.vectorTabs ul { float: left; height: 100%; list-style-type: none; lis=
+t-style-image: none; margin: 0px; padding: 0px; background-image: url("data=
+:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAAuCAIAAABmjeQ9AAAARElEQVR42=
+mVO2wrAUAhy/f8fz+niVMTYQ3hLKkgGgN/IPvgIhUYYV/qogdP75J01V+JwrKZr/5YPcnzN3e6t=
+7l+2K+EFX91B1daOi7sAAAAASUVORK5CYII=3D"); background-position: right bottom=
+; background-repeat: no-repeat; }
+  div.vectorTabs ul li { float: left; line-height: 1.125em; display: inline=
+-block; height: 100%; margin: 0px; padding: 0px; background-color: rgb(243,=
+ 243, 243); background-image: url("data:image/png;base64,iVBORw0KGgoAAAANSU=
+hEUgAAAAEAAABkCAIAAADITs03AAAAPElEQVR4XuWK2xEAIAzCsPvv5DSu0ahX3yv4wQVyGGCSv=
+g2dnJvduT8sz/IwKOIfjCi2z/76FhHeJcslVZQFLUC06LZ/AAAAAElFTkSuQmCC"); backgrou=
+nd-position: left bottom; background-repeat: repeat-x; white-space: nowrap;=
+ }
+  div.vectorTabs ul > li { display: block; }
+  div.vectorTabs li { }
+  div.vectorTabs li.new a, div.vectorTabs li.new a:visited { color: rgb(165=
+, 88, 88); }
+  div.vectorTabs li.selected { background-image: url("data:image/png;base64=
+,iVBORw0KGgoAAAANSUhEUgAAAAEAAABkAQAAAABvV2fNAAAADUlEQVQIHWNoYBgWEACJ5TIB0K=
+9KcAAAAABJRU5ErkJggg=3D=3D"); }
+  div.vectorTabs li.selected a, div.vectorTabs li.selected a:visited { colo=
+r: rgb(51, 51, 51); text-decoration: none; }
+  div.vectorTabs li.icon a { background-position: right bottom; background-=
+repeat: no-repeat; }
+  div.vectorTabs li a { display: inline-block; height: 1.9em; padding-left:=
+ 0.5em; padding-right: 0.5em; color: rgb(6, 69, 173); cursor: pointer; font=
+-size: 0.8em; }
+  div.vectorTabs li > a { display: block; }
+  div.vectorTabs span { display: inline-block; background-image: url("data:=
+image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAAuCAIAAABmjeQ9AAAARElEQVR42m=
+VO2wrAUAhy/f8fz+niVMTYQ3hLKkgGgN/IPvgIhUYYV/qogdP75J01V+JwrKZr/5YPcnzN3e6t7=
+l+2K+EFX91B1daOi7sAAAAASUVORK5CYII=3D"); background-position: right bottom;=
+ background-repeat: no-repeat; }
+  div.vectorTabs span a { display: inline-block; padding-top: 1.25em; }
+  div.vectorTabs span > a { float: left; display: block; }
+  div.vectorMenu { direction: ltr; float: left; cursor: pointer; position: =
+relative; }
+  body.rtl div.vectorMenu { direction: rtl; }
+  div#mw-head div.vectorMenu h3 { float: left; background-image: url("data:=
+image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAAuCAIAAABmjeQ9AAAARElEQVR42m=
+VO2wrAUAhy/f8fz+niVMTYQ3hLKkgGgN/IPvgIhUYYV/qogdP75J01V+JwrKZr/5YPcnzN3e6t7=
+l+2K+EFX91B1daOi7sAAAAASUVORK5CYII=3D"); background-repeat: no-repeat; back=
+ground-position: right bottom; font-size: 1em; height: 2.5em; padding-right=
+: 1px; margin-right: -1px; }
+  div.vectorMenu h3 span { display: block; font-size: 0.8em; padding-left: =
+0.7em; padding-top: 1.375em; margin-right: 20px; font-weight: normal; color=
+: rgb(77, 77, 77); }
+  div.vectorMenu h3 a { position: absolute; top: 0px; right: 0px; width: 20=
+px; height: 2.5em; background-image: linear-gradient(transparent, transpare=
+nt), url("data:image/svg+xml,%3C%3Fxml%20version%3D%221.0%22%20encoding%3D%=
+22UTF-8%22%3F%3E%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22=
+%20width%3D%2222%22%20height%3D%2216%22%3E%3Cpath%20d%3D%22M15.502%206.001l=
+-5%205.001-5-5.001z%22%20fill%3D%22%23797979%22%2F%3E%3C%2Fsvg%3E"); backgr=
+ound-position: 100% 70%; background-repeat: no-repeat; transition: backgrou=
+nd-position 250ms ease 0s; }
+  div.vectorMenu.menuForceShow h3 a { background-position: 100% 100%; }
+  div.vectorMenuFocus h3 a { background-image: linear-gradient(transparent,=
+ transparent), url("data:image/svg+xml,%3C%3Fxml%20version%3D%221.0%22%20en=
+coding%3D%22UTF-8%22%3F%3E%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F200=
+0%2Fsvg%22%20width%3D%2222%22%20height%3D%2216%22%3E%3Cpath%20d%3D%22M15.50=
+2%206.001l-5%205.001-5-5.001z%22%20fill%3D%22%23929292%22%2F%3E%3C%2Fsvg%3E=
+"); }
+  div.vectorMenu div.menu { min-width: 100%; position: absolute; top: 2.5em=
+; left: -1px; background-color: white; border-width: 0px 1px 1px; border-st=
+yle: solid; border-color: silver; border-image: initial; clear: both; text-=
+align: left; display: none; }
+  div.vectorMenu:hover div.menu, div.vectorMenu.menuForceShow div.menu { di=
+splay: block; }
+  div.vectorMenu ul { list-style-type: none; list-style-image: none; paddin=
+g: 0px; margin: 0px; text-align: left; }
+  div.vectorMenu li { padding: 0px; margin: 0px; text-align: left; line-hei=
+ght: 1em; }
+  div.vectorMenu li a { display: inline-block; padding: 0.5em; white-space:=
+ nowrap; color: rgb(6, 69, 173); cursor: pointer; font-size: 0.8em; }
+  div.vectorMenu li > a { display: block; }
+  div.vectorMenu li.selected a, div.vectorMenu li.selected a:visited { colo=
+r: rgb(51, 51, 51); text-decoration: none; }
+  @-webkit-keyframes rotate {=20
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+  @keyframes rotate {=20
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+  #ca-unwatch.icon a, #ca-watch.icon a { margin: 0px; padding: 3.1em 0px 0p=
+x; display: block; width: 26px; height: 0px; overflow: hidden; background-p=
+osition: 5px 60%; }
+  #ca-unwatch.icon a { background-image: linear-gradient(transparent, trans=
+parent), url("data:image/svg+xml,%3C%3Fxml%20version%3D%221.0%22%20encoding=
+%3D%22UTF-8%22%3F%3E%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsv=
+g%22%20xmlns%3Axlink%3D%22http%3A%2F%2Fwww.w3.org%2F1999%2Fxlink%22%20width=
+%3D%2216%22%20height%3D%2216%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22a%2=
+2%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%23c2edff%22%2F%3E%3Cstop%=
+20offset%3D%22.5%22%20stop-color%3D%22%2368bdff%22%2F%3E%3Cstop%20offset%3D=
+%221%22%20stop-color%3D%22%23fff%22%2F%3E%3C%2FlinearGradient%3E%3ClinearGr=
+adient%20x1%3D%2213.47%22%20y1%3D%2214.363%22%20x2%3D%224.596%22%20y2%3D%22=
+3.397%22%20id%3D%22b%22%20xlink%3Ahref%3D%22%23a%22%20gradientUnits%3D%22us=
+erSpaceOnUse%22%2F%3E%3C%2Fdefs%3E%3Cpath%20d%3D%22M8.103%201.146l2.175%204=
+.408%204.864.707-3.52%203.431.831%204.845-4.351-2.287-4.351%202.287.831-4.8=
+45-3.52-3.431%204.864-.707z%22%20fill%3D%22url%28%23b%29%22%20stroke%3D%22%=
+237cb5d1%22%20stroke-width%3D%220.9999199999999999%22%2F%3E%3C%2Fsvg%3E"); =
+}
+  #ca-watch.icon a { background-image: linear-gradient(transparent, transpa=
+rent), url("data:image/svg+xml,%3C%3Fxml%20version%3D%221.0%22%20encoding%3=
+D%22UTF-8%22%3F%3E%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%=
+22%20width%3D%2216%22%20height%3D%2216%22%3E%3Cpath%20d%3D%22M8.103%201.146=
+l2.175%204.408%204.864.707-3.52%203.431.831%204.845-4.351-2.287-4.351%202.2=
+87.831-4.845-3.52-3.431%204.864-.707z%22%20fill%3D%22%23fff%22%20stroke%3D%=
+22%237cb5d1%22%20stroke-width%3D%220.9999199999999999%22%2F%3E%3C%2Fsvg%3E"=
+); }
+  #ca-unwatch.icon a:hover, #ca-unwatch.icon a:focus { background-image: li=
+near-gradient(transparent, transparent), url("data:image/svg+xml,%3C%3Fxml%=
+20version%3D%221.0%22%20encoding%3D%22UTF-8%22%3F%3E%3Csvg%20xmlns%3D%22htt=
+p%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20xmlns%3Axlink%3D%22http%3A%2F%2Fwww.=
+w3.org%2F1999%2Fxlink%22%20width%3D%2216%22%20height%3D%2216%22%3E%3Cdefs%3=
+E%3ClinearGradient%20id%3D%22a%22%3E%3Cstop%20offset%3D%220%22%20stop-color=
+%3D%22%23c2edff%22%2F%3E%3Cstop%20offset%3D%22.5%22%20stop-color%3D%22%2368=
+bdff%22%2F%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%23fff%22%2F%3E%3=
+C%2FlinearGradient%3E%3ClinearGradient%20x1%3D%2213.47%22%20y1%3D%2214.363%=
+22%20x2%3D%224.596%22%20y2%3D%223.397%22%20id%3D%22b%22%20xlink%3Ahref%3D%2=
+2%23a%22%20gradientUnits%3D%22userSpaceOnUse%22%2F%3E%3C%2Fdefs%3E%3Cpath%2=
+0d%3D%22M8.103%201.146l2.175%204.408%204.864.707-3.52%203.431.831%204.845-4=
+.351-2.287-4.351%202.287.831-4.845-3.52-3.431%204.864-.707z%22%20fill%3D%22=
+url%28%23b%29%22%20stroke%3D%22%23c8b250%22%20stroke-width%3D%220.999919999=
+9999999%22%2F%3E%3C%2Fsvg%3E"); }
+  #ca-watch.icon a:hover, #ca-watch.icon a:focus { background-image: linear=
+-gradient(transparent, transparent), url("data:image/svg+xml,%3C%3Fxml%20ve=
+rsion%3D%221.0%22%20encoding%3D%22UTF-8%22%3F%3E%3Csvg%20xmlns%3D%22http%3A=
+%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2216%22%20height%3D%2216%22%3E%=
+3Cpath%20d%3D%22M8.103%201.146l2.175%204.408%204.864.707-3.52%203.431.831%2=
+04.845-4.351-2.287-4.351%202.287.831-4.845-3.52-3.431%204.864-.707z%22%20fi=
+ll%3D%22%23fff%22%20stroke%3D%22%23c8b250%22%20stroke-width%3D%220.99991999=
+99999999%22%2F%3E%3C%2Fsvg%3E"); }
+  #ca-unwatch.icon a.loading, #ca-watch.icon a.loading { background-image: =
+linear-gradient(transparent, transparent), url("data:image/svg+xml,%3C%3Fxm=
+l%20version%3D%221.0%22%20encoding%3D%22UTF-8%22%3F%3E%3Csvg%20xmlns%3D%22h=
+ttp%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2216%22%20height%3D%2216%=
+22%3E%3Cpath%20d%3D%22M8.103%201.146l2.175%204.408%204.864.707-3.52%203.431=
+.831%204.845-4.351-2.287-4.351%202.287.831-4.845-3.52-3.431%204.864-.707z%2=
+2%20fill%3D%22%23fff%22%20stroke%3D%22%23d1d1d1%22%20stroke-width%3D%220.99=
+99199999999999%22%2F%3E%3C%2Fsvg%3E"); animation: 700ms linear 0s infinite =
+normal none running rotate; outline: none; cursor: default; pointer-events:=
+ none; background-position: 50% 60%; transform-origin: 50% 57%; }
+  #ca-unwatch.icon a span, #ca-watch.icon a span { display: none; }
+  #mw-navigation h2 { position: absolute; top: -9999px; }
+  #mw-page-base { height: 5em; background-position: left bottom; background=
+-repeat: repeat-x; background-image: linear-gradient(rgb(255, 255, 255) 50%=
+, rgb(246, 246, 246) 100%); background-color: rgb(255, 255, 255); }
+  #mw-head-base { margin-top: -5em; margin-left: 10em; height: 5em; }
+  div#mw-head { position: absolute; top: 0px; right: 0px; width: 100%; }
+  div#mw-head h3 { margin: 0px; padding: 0px; }
+  #left-navigation { float: left; margin-left: 10em; margin-top: 2.5em; mar=
+gin-bottom: -2.5em; display: inline; }
+  #right-navigation { float: right; margin-top: 2.5em; }
+  #p-logo { position: absolute; top: -160px; left: 0px; width: 10em; height=
+: 160px; }
+  #p-logo a { display: block; width: 10em; height: 160px; background-repeat=
+: no-repeat; background-position: center center; text-decoration: none; }
+  div#mw-panel { font-size: inherit; position: absolute; top: 160px; paddin=
+g-top: 1em; width: 10em; left: 0px; }
+  div#mw-panel div.portal { margin: 0px 0.6em 0px 0.7em; padding: 0.25em 0p=
+x; direction: ltr; background-position: left top; background-repeat: no-rep=
+eat; background-image: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAA=
+IwAAAABCAAAAAAphRnkAAAAJ0lEQVQIW7XFsQEAIAyAMPD/b7uLWz8wS5youFW1UREfiIpH1Q2V=
+Bz7fGPS1dOGeAAAAAElFTkSuQmCC"); }
+  div#mw-panel div.portal h3 { font-size: 0.75em; color: rgb(77, 77, 77); f=
+ont-weight: normal; margin: 0px; padding: 0.25em 0px 0.25em 0.25em; cursor:=
+ default; border: none; }
+  div#mw-panel div.portal div.body { margin: 0px 0px 0px 1.25em; padding-to=
+p: 0px; }
+  div#mw-panel div.portal div.body ul { list-style-type: none; list-style-i=
+mage: none; margin: 0px; padding: 0px; }
+  div#mw-panel div.portal div.body ul li { line-height: 1.125em; margin: 0p=
+x; padding: 0.25em 0px; font-size: 0.75em; overflow-wrap: break-word; }
+  div#mw-panel div.portal div.body ul li a { color: rgb(6, 69, 173); }
+  div#mw-panel div.portal div.body ul li a:visited { color: rgb(11, 0, 128)=
+; }
+  div#mw-panel #p-logo + div.portal { background-image: none; margin-top: 0=
+px; }
+  div#mw-panel #p-logo + div.portal h3 { display: none; }
+  div#mw-panel #p-logo + div.portal div.body { margin-left: 0.5em; }
+  div#footer { margin-left: 10em; margin-top: 0px; padding: 0.75em; directi=
+on: ltr; }
+  div#footer ul { list-style-type: none; list-style-image: none; margin: 0p=
+x; padding: 0px; }
+  div#footer ul li { margin: 0px; padding: 0.5em 0px; color: rgb(51, 51, 51=
+); font-size: 0.7em; }
+  div#footer #footer-icons { float: right; }
+  div#footer #footer-icons li { float: left; margin-left: 0.5em; line-heigh=
+t: 2em; text-align: right; }
+  div#footer #footer-info li { line-height: 1.4em; }
+  div#footer #footer-places li { float: left; margin-right: 1em; line-heigh=
+t: 2em; }
+  body.ltr div#footer #footer-places { float: left; }
+  .mw-body .external { background-position: right center; background-repeat=
+: no-repeat; background-image: linear-gradient(transparent, transparent), u=
+rl("data:image/svg+xml,%3C%3Fxml%20version%3D%221.0%22%20encoding%3D%22UTF-=
+8%22%3F%3E%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20wid=
+th%3D%2210%22%20height%3D%2210%22%3E%3Cg%20transform%3D%22translate%28-826.=
+429%20-698.791%29%22%3E%3Crect%20width%3D%225.982%22%20height%3D%225.982%22=
+%20x%3D%22826.929%22%20y%3D%22702.309%22%20fill%3D%22%23fff%22%20stroke%3D%=
+22%2306c%22%2F%3E%3Cg%3E%3Cpath%20d%3D%22M831.194%20698.791h5.234v5.391l-1.=
+571%201.545-1.31-1.31-2.725%202.725-2.689-2.689%202.808-2.808-1.311-1.311z%=
+22%20fill%3D%22%2306f%22%2F%3E%3Cpath%20d%3D%22M835.424%20699.795l.022%204.=
+885-1.817-1.817-2.881%202.881-1.228-1.228%202.881-2.881-1.851-1.851z%22%20f=
+ill%3D%22%23fff%22%2F%3E%3C%2Fg%3E%3C%2Fg%3E%3C%2Fsvg%3E"); padding-right: =
+13px; }
+}
+
+@media screen and (min-width: 982px) {
+  .mw-body { margin-left: 11em; padding: 1.25em 1.5em 1.5em; }
+  #p-logo { left: 0.5em; }
+  div#footer { margin-left: 11em; padding: 1.25em; }
+  #mw-panel { padding-left: 0.5em; }
+  #p-search { margin-right: 1em; }
+  #left-navigation { margin-left: 11em; }
+  #p-personal { right: 1em; }
+  #mw-head-base { margin-left: 11em; }
+}
+------MultipartBoundary--809VM1ouUW0Z9lyP1P6054vC7WaG8NmOCaHTWhKJLj----
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: https://wiki.friendlyelec.com/wiki/fa_logo.png
+
+iVBORw0KGgoAAAANSUhEUgAAAKQAAABECAYAAAF49q5VAAAACXBIWXMAAAsTAAALEwEAmpwYAAAG
+5GlUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0w
+TXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRh
+LyIgeDp4bXB0az0iQWRvYmUgWE1QIENvcmUgNS42LWMxNDUgNzkuMTYzNDk5LCAyMDE4LzA4LzEz
+LTE2OjQwOjIyICAgICAgICAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3Jn
+LzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0i
+IiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtbG5zOmRjPSJodHRw
+Oi8vcHVybC5vcmcvZGMvZWxlbWVudHMvMS4xLyIgeG1sbnM6cGhvdG9zaG9wPSJodHRwOi8vbnMu
+YWRvYmUuY29tL3Bob3Rvc2hvcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNv
+bS94YXAvMS4wL21tLyIgeG1sbnM6c3RFdnQ9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9z
+VHlwZS9SZXNvdXJjZUV2ZW50IyIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ0Mg
+MjAxOSAoV2luZG93cykiIHhtcDpDcmVhdGVEYXRlPSIyMDIyLTAyLTIxVDE1OjI5OjE2KzA4OjAw
+IiB4bXA6TW9kaWZ5RGF0ZT0iMjAyMi0wMi0yMVQxNTozODoxNiswODowMCIgeG1wOk1ldGFkYXRh
+RGF0ZT0iMjAyMi0wMi0yMVQxNTozODoxNiswODowMCIgZGM6Zm9ybWF0PSJpbWFnZS9wbmciIHBo
+b3Rvc2hvcDpDb2xvck1vZGU9IjMiIHBob3Rvc2hvcDpJQ0NQcm9maWxlPSJzUkdCIElFQzYxOTY2
+LTIuMSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDowZjQ1YzY3NS01ODkyLWQyNDAtYWUwYi01
+YjUwYmM4ZWU0NGEiIHhtcE1NOkRvY3VtZW50SUQ9ImFkb2JlOmRvY2lkOnBob3Rvc2hvcDpjNDNm
+NGY1Zi1lNWFiLWMxNDItYmUyNC0wYjMxZDYwNGE4NTAiIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJ
+RD0ieG1wLmRpZDpmY2ZmN2U3Ny1lMzcwLWJiNGItODhmMy1jODRhZTU3OTI1NDMiPiA8cGhvdG9z
+aG9wOkRvY3VtZW50QW5jZXN0b3JzPiA8cmRmOkJhZz4gPHJkZjpsaT5hZG9iZTpkb2NpZDpwaG90
+b3Nob3A6MDgzYTI5NDMtN2VmZi0xMWU2LTg3MzktYTRmYWI2NTZjZTc2PC9yZGY6bGk+IDxyZGY6
+bGk+YWRvYmU6ZG9jaWQ6cGhvdG9zaG9wOmQzMzIzOWM0LTdmMDYtMTFlNi1iYzBlLWJmNzI4Mzc4
+NGU2MTwvcmRmOmxpPiA8L3JkZjpCYWc+IDwvcGhvdG9zaG9wOkRvY3VtZW50QW5jZXN0b3JzPiA8
+eG1wTU06SGlzdG9yeT4gPHJkZjpTZXE+IDxyZGY6bGkgc3RFdnQ6YWN0aW9uPSJjcmVhdGVkIiBz
+dEV2dDppbnN0YW5jZUlEPSJ4bXAuaWlkOmZjZmY3ZTc3LWUzNzAtYmI0Yi04OGYzLWM4NGFlNTc5
+MjU0MyIgc3RFdnQ6d2hlbj0iMjAyMi0wMi0yMVQxNToyOToxNiswODowMCIgc3RFdnQ6c29mdHdh
+cmVBZ2VudD0iQWRvYmUgUGhvdG9zaG9wIENDIDIwMTkgKFdpbmRvd3MpIi8+IDxyZGY6bGkgc3RF
+dnQ6YWN0aW9uPSJzYXZlZCIgc3RFdnQ6aW5zdGFuY2VJRD0ieG1wLmlpZDowZjQ1YzY3NS01ODky
+LWQyNDAtYWUwYi01YjUwYmM4ZWU0NGEiIHN0RXZ0OndoZW49IjIwMjItMDItMjFUMTU6Mzg6MTYr
+MDg6MDAiIHN0RXZ0OnNvZnR3YXJlQWdlbnQ9IkFkb2JlIFBob3Rvc2hvcCBDQyAyMDE5IChXaW5k
+b3dzKSIgc3RFdnQ6Y2hhbmdlZD0iLyIvPiA8L3JkZjpTZXE+IDwveG1wTU06SGlzdG9yeT4gPC9y
+ZGY6RGVzY3JpcHRpb24+IDwvcmRmOlJERj4gPC94OnhtcG1ldGE+IDw/eHBhY2tldCBlbmQ9InIi
+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
+RK5CYII=
+
+------MultipartBoundary--809VM1ouUW0Z9lyP1P6054vC7WaG8NmOCaHTWhKJLj----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://wiki.friendlyelec.com/wiki/load.php?debug=false&lang=en&modules=site&only=styles&skin=vector&*
+
+@charset "utf-8";
+=0A
+------MultipartBoundary--809VM1ouUW0Z9lyP1P6054vC7WaG8NmOCaHTWhKJLj----
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: https://wiki.friendlyelec.com/wiki/resources/assets/poweredby_mediawiki_88x31.png
+
+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
+
+------MultipartBoundary--809VM1ouUW0Z9lyP1P6054vC7WaG8NmOCaHTWhKJLj------
